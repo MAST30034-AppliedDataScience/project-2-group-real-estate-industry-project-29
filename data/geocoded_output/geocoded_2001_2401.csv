@@ -1,0 +1,346 @@
+Agent Name,Agent Company,Price,Address Line 1,Address Line 2,Bedrooms,Bathrooms,Parking,Floor Space,Region,latitude,longitude
+,,LEASED,"16 Flinders Street,",QUEENSCLIFF VIC 3225,3 Beds,1 Bath,2 Parking,,geelong-vic,-38.2714916,144.654042
+,,$560 per week,"33 Currong Street South,",REID ACT 2612,2 Beds,1 Bath,1 Parking,"2,497m²",geelong-vic,-35.2839691,149.1432609
+,,$800.00,"6 Hawkins Road,",MONTROSE VIC 3765,5 Beds,2 Baths,− Parking,,geelong-vic,-37.8009117,145.3660596
+,,$550/w & Furnished Available Now,"4502/80 A'Beckett Street,",MELBOURNE VIC 3000,1 Bed,1 Bath,− Parking,,geelong-vic,-37.814,144.9633
+,,$480 weekly,"19-21 Trinity Way,",ARMSTRONG CREEK VIC 3217,3 Beds,2 Baths,2 Parking,,geelong-vic,-38.2337982,144.370604
+,,$550,"8 Carisbrook St,",ARMSTRONG CREEK VIC 3217,4 Beds,2 Baths,2 Parking,,geelong-vic,-38.2245552,144.3544534
+,,$595,"804/333 Exhibition Street,",MELBOURNE VIC 3000,1 Bed,1 Bath,− Parking,,geelong-vic,-37.8072513,144.9689086
+,,$550 weekly,"7 Companion St,",MOUNT DUNEED VIC 3217,4 Beds,2 Baths,2 Parking,,geelong-vic,-38.2583,144.3083
+,,$550 weekly,"9 Companion St,",MOUNT DUNEED VIC 3217,4 Beds,2 Baths,2 Parking,,geelong-vic,-38.2583,144.3083
+,,$550 per week,"18 Milos Court,",FRASER RISE VIC 3336,4 Beds,2 Baths,2 Parking,,geelong-vic,-37.7139202,144.7191744
+,,$450,"10 Mccoy Street,",OMEO VIC 3898,3 Beds,1 Bath,3 Parking,,geelong-vic,-37.1097623,147.596471
+,,$925/week,"2512/138 Spencer Street,",MELBOURNE VIC 3000,2 Beds,2 Baths,− Parking,,geelong-vic,-37.814,144.9633
+,,$510 weekly,"68 Fairy Street,",BELL POST HILL VIC 3215,3 Beds,1 Bath,2 Parking,,geelong-vic,-38.1042,144.3304632
+,,$540 weekly,"48B Drysdale Avenue,",HAMLYN HEIGHTS VIC 3215,3 Beds,2 Baths,2 Parking,,geelong-vic,-38.1235407,144.3264857
+,,$450,"63 Vistula Av,",BELL PARK VIC 3215,3 Beds,2 Baths,1 Parking,,geelong-vic,-38.1154116,144.3390282
+,,$300 weekly,"1/110 West Fyans St,",NEWTOWN VIC 3220,1 Bed,1 Bath,− Parking,,geelong-vic,-38.1598527,144.3472535
+,,$570 weekly,"1501/63 Haig St,",SOUTHBANK VIC 3006,2 Beds,1 Bath,1 Parking,,geelong-vic,-37.8228,144.9643
+,,$600 weekly,"11 Rushden Close,",BELL POST HILL VIC 3215,4 Beds,2 Baths,2 Parking,,geelong-vic,-38.0910943,144.3288773
+,,$400 per week,"213/80 Cheltenham Road,",DANDENONG VIC 3175,1 Bed,1 Bath,− Parking,,geelong-vic,-37.9912458,145.1970169
+,,$575 pw,"3/215 Little Malop Street,",GEELONG VIC 3220,3 Beds,1 Bath,1 Parking,,geelong-vic,-38.1500204,144.3669526
+,,$560 weekly,"3 Golden Grove,",GLEN WAVERLEY VIC 3150,4 Beds,1 Bath,1 Parking,,geelong-vic,-37.873842,145.1718162
+,,$460 weekly,"10 Mercury Cres,",NEWCOMB VIC 3219,3 Beds,1 Bath,2 Parking,,geelong-vic,-38.1616607,144.3992246
+,,$600 PER WEEK,"19 Hurkett St,,",MICKLEHAM VIC 3064,4 Beds,2 Baths,2 Parking,,geelong-vic,-37.5483002,144.8977324
+,,$360 weekly,"84 Rose Avenue,",NORLANE VIC 3214,3 Beds,1 Bath,1 Parking,,geelong-vic,-38.0884552,144.3654102
+,,$510 weekly,"23 Diaz Drive,",GROVEDALE VIC 3216,4 Beds,2 Baths,2 Parking,,geelong-vic,-38.2040359,144.3436304
+,,$550,"35 Smith Way,",TORQUAY VIC 3228,2 Beds,2 Baths,1 Parking,,geelong-vic,-38.3751,144.2564
+,,$540,"11 Mentelle St,",MOUNT DUNEED VIC 3217,4 Beds,2 Baths,2 Parking,,geelong-vic,-38.2294524,144.3200441
+,,$460,"1 Hampshire Way,",CURLEWIS VIC 3222,4 Beds,2 Baths,2 Parking,,geelong-vic,-38.1741217,144.5481464
+,,$425,"30 Dudley St,",BELMONT VIC 3216,3 Beds,1 Bath,2 Parking,,geelong-vic,-38.1780606,144.3470638
+,,$520,"11A Stoddart St,",HAMLYN HEIGHTS VIC 3215,3 Beds,2 Baths,2 Parking,,geelong-vic,-38.1248355,144.3356577
+,,$570 Per week,"19/54 Percy Street,",NEWTOWN VIC 3220,2 Beds,1 Bath,1 Parking,,geelong-vic,-38.1575579,144.3415687
+,,$570.00 per week,"1/401 Shannon Avenue,",NEWTOWN VIC 3220,3 Beds,2 Baths,2 Parking,,geelong-vic,-38.1495259,144.3346926
+,,$610 Per week,"13 Leafy Street,",LARA VIC 3212,4 Beds,2 Baths,2 Parking,,geelong-vic,-38.0159761,144.3740934
+,,$480 weekly,"21 Bellagio Court,",WHITTINGTON VIC 3219,3 Beds,2 Baths,2 Parking,,geelong-vic,-38.1741196,144.3923415
+,,$500,"20 Cromwell Road,",WERRIBEE VIC 3030,3 Beds,2 Baths,2 Parking,,geelong-vic,-37.8732248,144.6604057
+,,$570 Per Week | Includes Lawn Mowing,"12 Carstairs Close,",GROVEDALE VIC 3216,4 Beds,2 Baths,− Parking,,geelong-vic,-38.2007291,144.3507581
+,,$570 Per Week Fully Furnished,"G05/312-320 Moorabool Street,",GEELONG VIC 3220,2 Beds,2 Baths,1 Parking,,geelong-vic,-38.1539,144.3351
+,,$490 Per week,"8 Currumbin Street,",ARMSTRONG CREEK VIC 3217,3 Beds,2 Baths,2 Parking,,geelong-vic,-38.2275699,144.3671205
+,,$450 Per week,"88 Mcclelland Avenue,",LARA VIC 3212,3 Beds,1 Bath,1 Parking,,geelong-vic,-38.0261631,144.4227623
+,,$560 Per week,"5 Rainford Place,",ARMSTRONG CREEK VIC 3217,4 Beds,2 Baths,2 Parking,,geelong-vic,-38.2424182,144.3367124
+,,$480,"52 Woodland Street,",LARA VIC 3212,4 Beds,2 Baths,1 Parking,,geelong-vic,-38.0148155,144.3709647
+,,$450 weekly,"186 Princess Road,",CORIO VIC 3214,4 Beds,1 Bath,2 Parking,,geelong-vic,-38.0693531,144.3490987
+,,$200 weekly,"Room 1/43-45 Hewat Drive,",HIGHTON VIC 3216,1 Bed,1 Bath,− Parking,,geelong-vic,-38.2335,144.3007
+,,$600.00 per week,"5A Iona Avenue,",BELMONT VIC 3216,3 Beds,2 Baths,2 Parking,,geelong-vic,-38.1794519,144.3245663
+,,$420,"1/7 Regan Street,",ST ALBANS VIC 3021,1 Bed,1 Bath,1 Parking,,geelong-vic,-37.729499,144.792894
+,,$350 weekly,"13 Swallow Crescent,",NORLANE VIC 3214,2 Beds,1 Bath,− Parking,,geelong-vic,-38.0876582,144.3553589
+,,$395 weekly,"29 Wendover Avenue,",NORLANE VIC 3214,3 Beds,1 Bath,2 Parking,,geelong-vic,-38.0931442,144.3609665
+,,$490 weekly,"112 McClelland St,",BELL PARK VIC 3215,3 Beds,2 Baths,1 Parking,,geelong-vic,-38.1109863,144.337348
+,,$550 Per Week,"17 Appalachian Street,",TRUGANINA VIC 3029,4 Beds,2 Baths,2 Parking,,geelong-vic,-37.7608936,144.6946239
+,,$500 weekly,"21 Keel St,",POINT COOK VIC 3030,4 Beds,2 Baths,1 Parking,,geelong-vic,-37.9088919,144.7206161
+,,$520 per week,"4 Downley Loop,",STRATHTULLOH VIC 3338,4 Beds,2 Baths,2 Parking,,geelong-vic,-37.7272956,144.5977917
+,,$560 per week,"63 Olympic Avenue,",NORLANE VIC 3214,3 Beds,2 Baths,2 Parking,,geelong-vic,-38.0869494,144.3454031
+,,$690 weekly,"40 Barak St,",BULLEEN VIC 3105,4 Beds,2 Baths,2 Parking,,geelong-vic,-37.7762995,145.0859313
+,,$550 weekly,"4/312-320 Moorabool Street,",GEELONG VIC 3220,2 Beds,1 Bath,1 Parking,,geelong-vic,-38.1539,144.3351
+,,$600 Per week,"34 Woolman Street,",LARA VIC 3212,4 Beds,2 Baths,2 Parking,,geelong-vic,-38.0162778,144.3579602
+,,$530 Per week,"20 Tenneyson Close,",ARMSTRONG CREEK VIC 3217,4 Beds,2 Baths,2 Parking,,geelong-vic,-38.2419573,144.3703173
+,,$560,"21 Rise Avenue,",ARMSTRONG CREEK VIC 3217,4 Beds,2 Baths,2 Parking,,geelong-vic,-38.2433309,144.3377204
+,,$475,"69 Ayesha Avenue,",MELTON SOUTH VIC 3338,3 Beds,2 Baths,2 Parking,,geelong-vic,-37.6991359,144.5657705
+,,$720 per week,"5 Lignum Court,",TEMPLESTOWE LOWER VIC 3107,5 Beds,3 Baths,2 Parking,,geelong-vic,-37.7720493,145.1268303
+,,$400 weekly,"149 Boundary Road,",NEWCOMB VIC 3219,3 Beds,1 Bath,2 Parking,,geelong-vic,-38.1624184,144.3857198
+,,$480 weekly,"8 Karlovac Court,",BELL PARK VIC 3215,3 Beds,2 Baths,1 Parking,,geelong-vic,-38.0958818,144.3407994
+,,$390 weekly,"2/1 Bourbon Way,",WAURN PONDS VIC 3216,2 Beds,1 Bath,1 Parking,,geelong-vic,-38.205978,144.3018285
+,,$480 Per week until March,"1608/500 Elizabeth Street,",MELBOURNE VIC 3000,1 Bed,1 Bath,− Parking,,geelong-vic,-37.7998626,144.9573647
+,,$580 weekly,"10 Coastside Dr,",ARMSTRONG CREEK VIC 3217,4 Beds,2 Baths,− Parking,,geelong-vic,-38.2416572,144.3362766
+,,$800 weekly,"49 Cargill St,",VICTORIA PARK WA 6100,3 Beds,2 Baths,2 Parking,,geelong-vic,-31.972578,115.8914965
+,,$450 ( Incl utilities)) pw,"1/38 Denman Street,",EAST GEELONG VIC 3219,1 Bed,1 Bath,− Parking,,geelong-vic,-38.1573392,144.383858
+,,$520 weekly,"7 Ekari Court,",YALLAMBIE VIC 3085,3 Beds,1 Bath,3 Parking,,geelong-vic,-37.7218995,145.1055572
+,,$440pw,"1307/53 Batman Street,",WEST MELBOURNE VIC 3003,1 Bed,1 Bath,− Parking,,geelong-vic,-37.8101,144.95
+,,$530 per week,"120/80 Cheltenham Road,",DANDENONG VIC 3175,2 Beds,2 Baths,1 Parking,,geelong-vic,-37.9912458,145.1970169
+,,$500 weekly,"22 Lacoora Avenue,",CLIFTON SPRINGS VIC 3222,3 Beds,2 Baths,2 Parking,,geelong-vic,-38.1651217,144.5667704
+,,$425 weekly,"1/9 Konrads Crescent,",HIGHTON VIC 3216,2 Beds,1 Bath,1 Parking,,geelong-vic,-38.1843079,144.3186844
+,,$550,"22 Lupton Street,",GEELONG WEST VIC 3218,4 Beds,2 Baths,2 Parking,,geelong-vic,-38.1456071,144.3457503
+,,$460 weekly,"1/1298 Main Road,",ELTHAM VIC 3095,2 Beds,1 Bath,1 Parking,,geelong-vic,-37.7278384,145.1463916
+,,$580 Per Week,"5 Devenish Street,",ARMSTRONG CREEK VIC 3217,4 Beds,2 Baths,2 Parking,,geelong-vic,-38.2304858,144.3536399
+,,$500,"3/91 Dianne Avenue,",CRAIGIEBURN VIC 3064,2 Beds,1 Bath,1 Parking,,geelong-vic,-37.5957624,144.9305182
+,,$750 weekly,"3/92 Para Rd,",MONTMORENCY VIC 3094,3 Beds,2 Baths,2 Parking,,geelong-vic,-37.7173344,145.1147998
+,,$650 weekly,"8 Wallagoot Walk,",CARRUM DOWNS VIC 3201,4 Beds,4 Baths,2 Parking,,geelong-vic,-38.0980307,145.1916224
+,,$550 per week | Includes Lawn Mowing,"11 Canary Court,",LOVELY BANKS VIC 3213,3 Beds,2 Baths,2 Parking,,geelong-vic,-38.0780381,144.336831
+,,$530,"4/54 East Esplanade,",ST ALBANS VIC 3021,3 Beds,3 Baths,4 Parking,,geelong-vic,-37.7307041,144.7945703
+,,$550 per week,"1/22 Dearing Avenue,",CRANBOURNE VIC 3977,3 Beds,1 Bath,1 Parking,,geelong-vic,-38.105759,145.2770982
+,,$620 per week,"708/850 Whitehorse Road,",BOX HILL VIC 3128,2 Beds,1 Bath,1 Parking,,geelong-vic,-37.8256,145.1232
+,,$540,"70 Vestige Circuit,",TARNEIT VIC 3029,4 Beds,2 Baths,4 Parking,335m²,geelong-vic,-37.8233788,144.6874167
+,,$500 weekly,"23 Maramba Ave,",GROVEDALE VIC 3216,3 Beds,2 Baths,4 Parking,,geelong-vic,-38.2102704,144.3229317
+,,$520,"18 Primary Road,",TARNEIT VIC 3029,3 Beds,2 Baths,2 Parking,263m²,geelong-vic,-37.8826,144.7003
+,,$490,"21 Murnong St,",LEOPOLD VIC 3224,4 Beds,2 Baths,2 Parking,,geelong-vic,-38.2023963,144.4652318
+,,$520 weekly,"15/44 Mcmaster St,",VICTORIA PARK WA 6100,2 Beds,1 Bath,1 Parking,,geelong-vic,-31.9739084,115.8936077
+,,$530,"25 Palladian Drive,",CHARLEMONT VIC 3217,4 Beds,2 Baths,2 Parking,,geelong-vic,-38.2210376,144.3681904
+,,$460,"31 Suffolk St,",CURLEWIS VIC 3222,4 Beds,2 Baths,2 Parking,,geelong-vic,-38.177079,144.5475963
+,,$480,"7 Kookaburra Dr,",ARMSTRONG CREEK VIC 3217,4 Beds,2 Baths,2 Parking,,geelong-vic,-38.2425816,144.3730585
+,,$450 Per week,"3 Native Way,",KURUNJANG VIC 3337,4 Beds,2 Baths,2 Parking,,geelong-vic,-37.6594684,144.5771184
+,,$320 pw,"110 Sparks Road,",NORLANE VIC 3214,1 Bed,1 Bath,1 Parking,,geelong-vic,-38.091451,144.358036
+,,Under Application,"9 Sutherland Avenue,",MELTON SOUTH VIC 3338,3 Beds,2 Baths,5 Parking,578m²,geelong-vic,-37.6994792,144.5791203
+,,$920,"11/1781 Malvern Road,",GLEN IRIS VIC 3146,3 Beds,2 Baths,2 Parking,,geelong-vic,-37.8599,145.0549
+,,$520 weekly,"11 Osprey Court,",TORQUAY VIC 3228,2 Beds,1 Bath,− Parking,,geelong-vic,-38.3193275,144.328075
+,,$460 weekly,"10 Loddon Street,",CORIO VIC 3214,3 Beds,1 Bath,2 Parking,,geelong-vic,-38.0741651,144.3506107
+,,$495 weekly,"50 Grevillea Drive,",MOUNT DUNEED VIC 3217,4 Beds,2 Baths,2 Parking,,geelong-vic,-38.2176678,144.3325082
+,,$510 weekly,"15 Wurrook Circuit,",NORTH GEELONG VIC 3215,4 Beds,2 Baths,2 Parking,,geelong-vic,-38.1180337,144.3414449
+,,$550 weekly,"77 Laura Avenue,",BELMONT VIC 3216,4 Beds,2 Baths,2 Parking,,geelong-vic,-38.179612,144.3326347
+,,$920 weekly,"3 Young St,",BOX HILL VIC 3128,3 Beds,2 Baths,2 Parking,,geelong-vic,-37.8171987,145.1163199
+,,$130,"1 North Valley Road,",HIGHTON VIC 3216,1 Bed,3 Baths,− Parking,,geelong-vic,-38.1722932,144.3183811
+,,$480 Per Week,"59 Bronson Circuit,",HOPPERS CROSSING VIC 3029,3 Beds,2 Baths,1 Parking,,geelong-vic,-37.8608753,144.6872141
+,,$480 weekly,"133 Vines Rd,",HAMLYN HEIGHTS VIC 3215,4 Beds,1 Bath,2 Parking,,geelong-vic,-38.1190223,144.3289338
+,,$420 weekly,"74 Rose Avenue,",NORLANE VIC 3214,3 Beds,2 Baths,1 Parking,,geelong-vic,-38.0882986,144.3643457
+,,Under Application,"11 Gramercy place,",STRATHTULLOH VIC 3338,4 Beds,2 Baths,3 Parking,,geelong-vic,-37.7269779,144.61136
+,,$520 per week,"27 Pedirka Road,",TRUGANINA VIC 3029,3 Beds,2 Baths,1 Parking,,geelong-vic,-37.7680725,144.6857966
+,,$430 pw,"19/5 Oxford St Street,",WHITTINGTON VIC 3219,2 Beds,1 Bath,1 Parking,,geelong-vic,-38.1745071,144.3872062
+,,$800,"94 Hitchcock Avenue,",BARWON HEADS VIC 3227,3 Beds,2 Baths,2 Parking,736m²,geelong-vic,-38.2825037,144.4915009
+,,$185 pw,"18 Cedarville Close,",HIGHTON VIC 3216,1 Bed,1 Bath,1 Parking,,geelong-vic,-38.1952644,144.3140993
+,,$580,"10/966 Albany Highway,",EAST VICTORIA PARK WA 6101,1 Bed,1 Bath,1 Parking,,geelong-vic,1.5,109.25
+,,$250.00 Per Week,"8/50 Robin Avenue,",NORLANE VIC 3214,1 Bed,1 Bath,− Parking,,geelong-vic,-38.0892875,144.3542805
+,,$290,"1/9-11 Malop St,",GEELONG VIC 3220,1 Bed,3 Baths,− Parking,,geelong-vic,-38.1482909,144.3641919
+,,$650,"110 Hendy Main Rd,",GNARWARRE VIC 3221,3 Beds,2 Baths,2 Parking,,geelong-vic,-38.1667,144.2263
+,,$570 Per Week,"69 Callistemon Circuit,",LARA VIC 3212,4 Beds,2 Baths,2 Parking,,geelong-vic,-38.0113116,144.3829892
+,,$400 weekly,"7 Dargo Court,",CORIO VIC 3214,3 Beds,1 Bath,2 Parking,,geelong-vic,-38.0771111,144.3560082
+,,$195,"11 Cortona Place,",WAURN PONDS VIC 3216,1 Bed,2 Baths,3 Parking,,geelong-vic,-38.2140566,144.3099379
+,,$535 Per Week,"1 Evesham Drive,",POINT COOK VIC 3030,4 Beds,2 Baths,2 Parking,,geelong-vic,-37.9017064,144.7597983
+,,$395 weekly,"1 Dearborn Parade,",CORIO VIC 3214,3 Beds,1 Bath,1 Parking,,geelong-vic,-38.0775505,144.3638776
+,,$440,"2/14 Synnott St,",HAMLYN HEIGHTS VIC 3215,3 Beds,1 Bath,1 Parking,,geelong-vic,-38.1250174,144.3370067
+,,$340 Per Week,"1/188 Separation Street,",BELL PARK VIC 3215,2 Beds,1 Bath,1 Parking,,geelong-vic,-38.1097615,144.3346983
+,,$540,"6 Surround Circuit,",BONNIE BROOK VIC 3335,4 Beds,2 Baths,2 Parking,,geelong-vic,-37.7086078,144.6784588
+,,$900.00 PER WEEK,"13 Jackson Road,",KARAWARA WA 6152,4 Beds,2 Baths,2 Parking,,geelong-vic,-32.0058305,115.8797913
+,,$500 Per week,"51 Ararat Street,",TRUGANINA VIC 3029,4 Beds,2 Baths,2 Parking,,geelong-vic,-37.7621698,144.6739327
+,,$500 Per Week,"79 Wagner Drive,",WERRIBEE VIC 3030,4 Beds,2 Baths,2 Parking,,geelong-vic,-37.9171981,144.6335882
+,,$430 weekly,"3 Coxon Parade,",NORTH GEELONG VIC 3215,3 Beds,1 Bath,1 Parking,,geelong-vic,-38.127365,144.3488605
+,,$560,"166 Batten Road,",ARMSTRONG CREEK VIC 3217,4 Beds,2 Baths,2 Parking,,geelong-vic,-38.231742,144.3639535
+,,$620 per week,"51 Stringybark Drive,",LARA VIC 3212,4 Beds,2 Baths,2 Parking,,geelong-vic,-38.0124682,144.3743589
+,,$340 weekly,"1/30 Wisteria Grove,",NORLANE VIC 3214,2 Beds,1 Bath,− Parking,,geelong-vic,-38.086859,144.362501
+,,$370 weekly,"5/1 Holyrood Avenue,",NEWTOWN VIC 3220,2 Beds,1 Bath,1 Parking,,geelong-vic,-38.1578053,144.3268478
+,,$560 Per Week,"71 Starboard Way,",WERRIBEE SOUTH VIC 3030,4 Beds,2 Baths,2 Parking,,geelong-vic,-37.963701,144.7088524
+,,$520,"107/50 Bowlers Avenue,",GEELONG WEST VIC 3218,2 Beds,2 Baths,1 Parking,,geelong-vic,-38.1445755,144.3454115
+,,$650 weekly,"3 Shoreline Cr,",CARRUM DOWNS VIC 3201,4 Beds,2 Baths,2 Parking,,geelong-vic,-38.0980715,145.1919751
+,,$500,"21 Conifer St,",ARMSTRONG CREEK VIC 3217,4 Beds,2 Baths,2 Parking,,geelong-vic,-38.2288683,144.3672552
+,,$510,"6 Koslow St,",ARMSTRONG CREEK VIC 3217,4 Beds,2 Baths,2 Parking,,geelong-vic,-38.2414192,144.3428346
+,,$520,"11 Bentons Way,",ARMSTRONG CREEK VIC 3217,4 Beds,3 Baths,2 Parking,,geelong-vic,-38.2289654,144.3681317
+,,"$580 Per Week, Including Lawns Mowed","1385 Heatherton Road,",DANDENONG NORTH VIC 3175,3 Beds,1 Bath,2 Parking,590m²,geelong-vic,-37.9703583,145.2176898
+,,$520,"61 Tranquility Cr,",ARMSTRONG CREEK VIC 3217,4 Beds,2 Baths,2 Parking,,geelong-vic,-38.2241472,144.3790001
+,,$430 pw,"704 Geelong Road,",CANADIAN VIC 3350,3 Beds,1 Bath,2 Parking,"1,263m²",geelong-vic,-37.5915768,143.8671159
+,,$520,"45 Tranquillity Cct,",ARMSTRONG CREEK VIC 3217,4 Beds,2 Baths,2 Parking,,geelong-vic,-38.2583,144.3083
+,,$700 per Week,"Apartment 202/46 Cambridge Street,",COLLINGWOOD VIC 3066,2 Beds,2 Baths,1 Parking,,geelong-vic,-37.8,144.9833
+,,$650,"1B/18 Scenic Rd,",HIGHTON VIC 3216,3 Beds,2 Baths,2 Parking,,geelong-vic,-38.171406,144.3093482
+,,$870 weekly,"3103/100 Lorimer St,",DOCKLANDS VIC 3008,2 Beds,2 Baths,2 Parking,,geelong-vic,-37.8149,144.9505
+,,$610 weekly,"6108/172 Edward St,",BRUNSWICK EAST VIC 3057,2 Beds,2 Baths,1 Parking,,geelong-vic,-37.7603,144.9502
+,,$520,"2/29 Vincent Avenue,",ST ALBANS VIC 3021,3 Beds,2 Baths,2 Parking,,geelong-vic,-37.7451799,144.808638
+,,$495 weekly,"LG 202/45 Linden Avenue,",IVANHOE VIC 3079,1 Bed,1 Bath,1 Parking,,geelong-vic,-37.754915,145.0543999
+,,$400 weekly,"17 Synnott Street,",HAMLYN HEIGHTS VIC 3215,3 Beds,1 Bath,3 Parking,,geelong-vic,-38.1250174,144.3370067
+,,$630.00 pw- Spacious & Stylish,"22 Trundle Drive,",ARMSTRONG CREEK VIC 3217,4 Beds,2 Baths,2 Parking,448m²,geelong-vic,-38.2227569,144.3505725
+,,$540,"42 Gilroy Crescent,",CHARLEMONT VIC 3217,4 Beds,2 Baths,2 Parking,,geelong-vic,-38.2097898,144.374156
+,,$600 weekly,"25 Fairway Dr,",LARA VIC 3212,3 Beds,1 Bath,6 Parking,"24,000m²",geelong-vic,-38.0226839,144.3608244
+,,$750,"615C/2 Snedden Drive,",GLEN WAVERLEY VIC 3150,2 Beds,2 Baths,1 Parking,,geelong-vic,-37.8891,145.174
+,,$800 **INSPECTION UPON REQUEST**,"1810/462 Elizabeth Street,",MELBOURNE VIC 3000,2 Beds,2 Baths,− Parking,,geelong-vic,-37.814,144.9633
+,,$500,"2/291 Wilsons Road,",ST ALBANS PARK VIC 3219,3 Beds,2 Baths,2 Parking,,geelong-vic,-38.1885277,144.3881227
+,,$460 weekly,"8 Perrett Street,",GROVEDALE VIC 3216,3 Beds,1 Bath,1 Parking,,geelong-vic,-38.2070444,144.3416516
+,,$445 weekly,"3/30-32 Spring Street,",BELMONT VIC 3216,2 Beds,1 Bath,1 Parking,,geelong-vic,-38.2335,144.3007
+,,$450,"144 Church Street,",HAMLYN HEIGHTS VIC 3215,3 Beds,1 Bath,− Parking,,geelong-vic,-38.1292679,144.3275404
+,,$555 per Week,"10 Puri Street,",WERRIBEE VIC 3030,4 Beds,2 Baths,2 Parking,,geelong-vic,-37.9239088,144.6359599
+,,$480,"78 Pearlrock Dr,",MOUNT DUNEED VIC 3217,3 Beds,2 Baths,2 Parking,,geelong-vic,-38.2303127,144.3217201
+,,$480 Per Week,"1/61 St George Road,",NORLANE VIC 3214,3 Beds,1 Bath,2 Parking,,geelong-vic,-38.1014,144.3542
+,,$400 weekly,"4 Tuffs Court,",CORIO VIC 3214,3 Beds,1 Bath,2 Parking,,geelong-vic,-38.0639152,144.3688045
+,,$580 per week,"21 Ararat Street,",TARNEIT VIC 3029,4 Beds,2 Baths,2 Parking,,geelong-vic,-37.8420586,144.6428936
+,,$675,"182 Fenton Hill Road,",CLARKEFIELD VIC 3430,4 Beds,1 Bath,5 Parking,,geelong-vic,-37.4932063,144.8109401
+,,$600 Per Week,"1/33 Arcadia Avenue,",HALLAM VIC 3803,3 Beds,2 Baths,1 Parking,,geelong-vic,-37.9981456,145.2599547
+,,$660 Per Week,"30 Bailey Boulevard,",KOO WEE RUP VIC 3981,4 Beds,2 Baths,2 Parking,,geelong-vic,-38.2039038,145.4925911
+,,$520/Week,"102/53 Mercer Street,",GEELONG VIC 3220,2 Beds,2 Baths,1 Parking,,geelong-vic,-38.1438254,144.3566869
+,,$530 weekly,"26 Newfields Dr,",DRYSDALE VIC 3222,4 Beds,2 Baths,2 Parking,,geelong-vic,-38.1767244,144.5756531
+,,$520 pw,"3 Callander Street,",THOMSON VIC 3219,3 Beds,2 Baths,3 Parking,,geelong-vic,-38.1711611,144.3784282
+,,$780 PW Enquire Now!!,"24 Lantana Road,",AINTREE VIC 3336,5 Beds,3 Baths,2 Parking,,geelong-vic,-37.7201581,144.656696
+,,$385 weekly,"16 Zinnia Street,",NORLANE VIC 3214,3 Beds,1 Bath,1 Parking,,geelong-vic,-38.0855768,144.3662069
+,,$580 per week,"18 Leeward Drive,",TARNEIT VIC 3029,4 Beds,2 Baths,2 Parking,,geelong-vic,-37.8612781,144.6469924
+,,$350 weekly,"4/220-222 Wilsons Road,",WHITTINGTON VIC 3219,2 Beds,1 Bath,1 Parking,,geelong-vic,-38.1662,144.3943
+,,$625,"46 Rugby Street,",BELMONT VIC 3216,3 Beds,2 Baths,2 Parking,,geelong-vic,-38.1770668,144.335519
+,,$560 per week,"11 Faircroft Place,",TARNEIT VIC 3029,4 Beds,2 Baths,2 Parking,,geelong-vic,-37.8466441,144.6949076
+,,$300 weekly,"3/10 Portarlington Road,",NEWCOMB VIC 3219,2 Beds,1 Bath,1 Parking,,geelong-vic,-38.1596432,144.3953324
+,,$530 weekly,"62 Navigator Drive,",CORIO VIC 3214,4 Beds,2 Baths,2 Parking,,geelong-vic,-38.0656015,144.3599943
+,,$460 weekly,"15 Church Street,",GROVEDALE VIC 3216,3 Beds,2 Baths,1 Parking,,geelong-vic,-38.1969821,144.342125
+,,$460 weekly,"14 Chucklecreek Lane,",ARMSTRONG CREEK VIC 3217,3 Beds,2 Baths,1 Parking,,geelong-vic,-38.2337544,144.3738031
+,,$530 weekly,"3/4 Blyth Street,",BELL PARK VIC 3215,3 Beds,2 Baths,2 Parking,,geelong-vic,-38.1181701,144.3337223
+,,$380 weekly,"58 Wendover Avenue,",NORLANE VIC 3214,3 Beds,1 Bath,2 Parking,,geelong-vic,-38.0930294,144.3634625
+,,$450 weekly,"15 Cheryl Crescent,",BELMONT VIC 3216,3 Beds,1 Bath,2 Parking,,geelong-vic,-38.187486,144.3410942
+,,$385 weekly,"51 Bellbird Avenue,",NORLANE VIC 3214,3 Beds,1 Bath,2 Parking,,geelong-vic,-38.0884293,144.3515172
+,,$570 weekly,"1 Wild Branch Place,",CORIO VIC 3214,4 Beds,2 Baths,2 Parking,,geelong-vic,-38.1014,144.3542
+,,$485 weekly,"803/44 Ryrie Street,",GEELONG VIC 3220,1 Bed,1 Bath,1 Parking,,geelong-vic,-38.1481755,144.3560217
+,,$400 weekly,"16 Purnell Road,",CORIO VIC 3214,3 Beds,1 Bath,1 Parking,,geelong-vic,-38.0748811,144.3666081
+,,$450 weekly,"16 Bingara Avenue,",NORLANE VIC 3214,3 Beds,1 Bath,2 Parking,,geelong-vic,-38.0920696,144.3539496
+,,$330 weekly,"4/10 Portarlington Road,",NEWCOMB VIC 3219,2 Beds,1 Bath,1 Parking,,geelong-vic,-38.1596432,144.3953324
+,,$530 Per Week,"1/29 Baldwin Avenue,",NOBLE PARK VIC 3174,3 Beds,1 Bath,1 Parking,,geelong-vic,-37.9753635,145.1752593
+,,$650,"14 Wonnangatta CRES,",WEIR VIEWS VIC 3338,5 Beds,2 Baths,2 Parking,,geelong-vic,-37.7269511,144.5726647
+,,$450,"1416/6 Leicester Street,",CARLTON VIC 3053,1 Bed,1 Bath,− Parking,,geelong-vic,-37.802198,144.9607524
+,,$540 pw,"287 Torquay Road,",GROVEDALE VIC 3216,4 Beds,1 Bath,1 Parking,,geelong-vic,-38.2065487,144.339906
+,,$780 pw,"13 Mountfield Road,",MITCHAM VIC 3132,6 Beds,3 Baths,5 Parking,,geelong-vic,-37.807391,145.1869189
+,,$620,"2 The Breezewater,",POINT COOK VIC 3030,4 Beds,2 Baths,2 Parking,,geelong-vic,-37.8865333,144.7711545
+,,$420 pw,"16 Vermont Avenue,",CORIO VIC 3214,3 Beds,1 Bath,2 Parking,,geelong-vic,-38.0819412,144.355828
+,,$220 pw,"9 Komodo Road,",CURLEWIS VIC 3222,1 Bed,1 Bath,− Parking,,geelong-vic,-38.1762916,144.5424931
+,,$795 Per Week,"6 Elizabeth Court,",ROWVILLE VIC 3178,4 Beds,2 Baths,4 Parking,,geelong-vic,-37.9193868,145.2319676
+,,$595 Per Week,"31 Ambassador Crescent,",POINT COOK VIC 3030,4 Beds,2 Baths,2 Parking,758m²,geelong-vic,-37.8845432,144.7116807
+,,$550 per week,"18/80 Cheltenham Road,",DANDENONG VIC 3175,2 Beds,2 Baths,1 Parking,,geelong-vic,-37.9912458,145.1970169
+,,$720/week,"146 Lady Nelson Way,",TAYLORS LAKES VIC 3038,5 Beds,3 Baths,2 Parking,,geelong-vic,-37.7120857,144.7893649
+,,$640 weekly,"1A Hill St,",BELMONT VIC 3216,3 Beds,2 Baths,2 Parking,,geelong-vic,-38.1755269,144.3318593
+,,$410 weekly,"3/85 Collins Street,",THORNBURY VIC 3071,2 Beds,1 Bath,1 Parking,,geelong-vic,-37.7569997,145.0273656
+,,$450 weekly,"2/185 Swanston Street,",SOUTH GEELONG VIC 3220,2 Beds,1 Bath,1 Parking,,geelong-vic,-38.162276,144.3623563
+,,$870,"32 Trades Hall Place,",CARLTON VIC 3053,3 Beds,2 Baths,1 Parking,160m²,geelong-vic,-37.8065885,144.9667277
+,,$650 Per Week,"97 Festival Drive,",POINT COOK VIC 3030,5 Beds,3 Baths,2 Parking,,geelong-vic,-37.9084089,144.7462775
+,,$450,"16 Mernda Pde,",BELMONT VIC 3216,3 Beds,2 Baths,2 Parking,,geelong-vic,-38.1826961,144.3401517
+,,$550 weekly,"6 Killarney Ave,",GROVEDALE VIC 3216,4 Beds,2 Baths,2 Parking,,geelong-vic,-38.1951913,144.3486127
+,,$420 weekly,"36 Buffalo Ave,",CORIO VIC 3214,3 Beds,1 Bath,1 Parking,,geelong-vic,-38.0737664,144.3684016
+,,$520 per week,"406/6 Leicester Street,",CARLTON VIC 3053,1 Bed,1 Bath,− Parking,,geelong-vic,-37.802198,144.9607524
+,,$490 weekly,"9 Romney Dr,",CURLEWIS VIC 3222,4 Beds,2 Baths,2 Parking,,geelong-vic,-38.1758827,144.5459776
+,,$600,"1/9 Scarlett St,",GEELONG WEST VIC 3218,3 Beds,2 Baths,2 Parking,,geelong-vic,-38.1362082,144.3443716
+,,$560 pw,"29 Rotherham Street,",BELMONT VIC 3216,4 Beds,3 Baths,1 Parking,,geelong-vic,-38.1753935,144.3308026
+,,$380 weekly,"2/25 Tallis St,",NORLANE VIC 3214,2 Beds,1 Bath,1 Parking,,geelong-vic,-38.0924322,144.3646223
+,,$630,"26 Clarkes Road,",FYANSFORD VIC 3218,4 Beds,2 Baths,2 Parking,,geelong-vic,-38.1396518,144.2986049
+,,$600 weekly,"13 Moorhen Dr,",LARA VIC 3212,4 Beds,2 Baths,2 Parking,,geelong-vic,-38.0275343,144.3832767
+,,$550,"39 Millers Road,",ALTONA VIC 3018,3 Beds,1 Bath,3 Parking,,geelong-vic,-37.8647814,144.8392132
+,,$175 pw,"4 North Valley Road,",HIGHTON VIC 3216,1 Bed,1 Bath,1 Parking,,geelong-vic,-38.1676267,144.3196958
+,,$575/w & Fully Furnished,"104/15 Irving Avenue,",BOX HILL VIC 3128,1 Bed,1 Bath,1 Parking,,geelong-vic,-37.8158711,145.1222744
+,,$625,"18/367 High Street,",BELMONT VIC 3216,3 Beds,2 Baths,1 Parking,125m²,geelong-vic,-38.2335,144.3007
+,,$440,"917/6 Leicester Street,",CARLTON VIC 3053,1 Bed,1 Bath,− Parking,,geelong-vic,-37.802198,144.9607524
+,,$580,"9 Kenora Way,",MICKLEHAM VIC 3064,4 Beds,2 Baths,2 Parking,509m²,geelong-vic,-37.5372385,144.8973557
+,,$510,"18 Winterfell Rd,",CHARLEMONT VIC 3217,4 Beds,2 Baths,2 Parking,,geelong-vic,-38.2583,144.3083
+,,$610 Per Week,"19 Duncan Street,",FYANSFORD VIC 3218,4 Beds,2 Baths,2 Parking,,geelong-vic,-38.138825,144.3058582
+,,$470,"1709/6 Leicester Street,",CARLTON VIC 3053,,,,,geelong-vic,-37.802198,144.9607524
+,,"$1,100 Per Week","20 Koonawarra St,",CLAYTON VIC 3168,5 Beds,3 Baths,2 Parking,,geelong-vic,-37.9117269,145.1244965
+,,$550 weekly,"6 Grosvenor Dr,",WANDANA HEIGHTS VIC 3216,3 Beds,2 Baths,2 Parking,,geelong-vic,-38.1714616,144.3068388
+,,$400.00 Per Week,"4 Springbank Way,",BROOKFIELD VIC 3338,4 Beds,2 Baths,2 Parking,,geelong-vic,-37.7052143,144.5553866
+Create Real Estate,Create Real Estate,$460,"8 Perth Avenue,",ALBION VIC 3020,3 Beds,1 Bath,− Parking,,ballarat-vic,-37.7799668,144.814721
+Chloe Conway,Performance Asset Management Melbourne,$430 per week,"331 Richards St,",BALLARAT EAST VIC 3350,3 Beds,1 Bath,4 Parking,,ballarat-vic,-37.5673947,143.8897628
+HouseSmart Property Management Department,HouseSmart Real Estate Pty Ltd,$550 per week,"4K/45 King George Street,",VICTORIA PARK WA 6100,2 Beds,1 Bath,1 Parking,,ballarat-vic,-31.9791219,115.8891997
+Certainty  Property Vic,Certainty Property,$270,"11 McCulloch Drive,",MELTON SOUTH VIC 3338,1 Bed,1 Bath,− Parking,,ballarat-vic,-37.7077,144.5749
+,,$490 weekly,"507 Lyons Street,",BALLARAT CENTRAL VIC 3350,3 Beds,1 Bath,1 Parking,463m²,ballarat-vic,-37.5592025,143.8522341
+Kim Te,Motion Property,$610 Per Week,"801/5 Joseph Road,",FOOTSCRAY VIC 3011,2 Beds,2 Baths,1 Parking,,ballarat-vic,-37.7995452,144.909498
+Danielle Ryan,The Core Advisory Team VIC,$750pw,"13/299 Dandenong Road,",PRAHRAN VIC 3181,2 Beds,1 Bath,1 Parking,,ballarat-vic,-37.853,144.9929
+Certainty  Property Vic,Certainty Property,$200,"2 Caspian Court,",NEWBOROUGH VIC 3825,1 Bed,1 Bath,− Parking,,ballarat-vic,-38.1671585,146.2940256
+Certainty  Property Vic,Certainty Property,$450,"114 Anniversary Avenue,",WYNDHAM VALE VIC 3024,4 Beds,2 Baths,2 Parking,,ballarat-vic,-37.8515984,144.5943387
+Certainty  Property Vic,Certainty Property,$275,"16 Astral Walk,",WOLLERT VIC 3750,1 Bed,1 Bath,− Parking,,ballarat-vic,-37.5833,145.0333
+Certainty  Property Vic,Certainty Property,$240,"6 Songlark Street,",MELTON SOUTH VIC 3338,1 Bed,1 Bath,− Parking,,ballarat-vic,-37.718538,144.5789886
+Kavinda Kudage Don,Linage,$430 per week ($1868 pcm),"4 Aspen St,",WINTER VALLEY VIC 3358,3 Beds,2 Baths,2 Parking,,ballarat-vic,-37.5865051,143.7956084
+Kim Te,Motion Property,$590 per week,"1002/1 Joseph Road,",FOOTSCRAY VIC 3011,2 Beds,2 Baths,1 Parking,,ballarat-vic,-37.7995452,144.909498
+Evelyne Surja,Kay & Burton Stonnington,$1695 Per Week,"2 Rathmines Street,",TOORAK VIC 3142,3 Beds,2 Baths,2 Parking,,ballarat-vic,-37.8387209,145.0058412
+Certainty  Property Vic,Certainty Property,$250,"17 Oakhill Terrace,",CHURCHILL VIC 3842,1 Bed,1 Bath,1 Parking,,ballarat-vic,-38.3078,146.4137
+Dylan Archer-Jeffrey,,$460 Per Week,"1305a Dana Street,",BALLARAT CENTRAL VIC 3350,3 Beds,2 Baths,2 Parking,,ballarat-vic,-37.5644581,143.8597226
+Shane Kozaris,,$380.00 per week,"3/208 Landsborough Street,",BALLARAT NORTH VIC 3350,2 Beds,1 Bath,1 Parking,,ballarat-vic,-37.5408314,143.8715945
+Dylan Archer-Jeffrey,,$360.00 per week,"108 Barkly Street,",BAKERY HILL VIC 3350,3 Beds,1 Bath,4 Parking,,ballarat-vic,-37.5652273,143.8671847
+Dylan Archer-Jeffrey,,$450 Per Week,"421 Sherrard Street,",BLACK HILL VIC 3350,4 Beds,3 Baths,2 Parking,,ballarat-vic,-37.5532245,143.8684465
+Casey Blaine,,FULLY FURNISHED - $420 PER WEEK,"5/8 Dale St,",KENNINGTON VIC 3550,1 Bed,1 Bath,1 Parking,,ballarat-vic,-36.7612758,144.3023453
+Shane Kozaris,,$625.00 per week,"5 Hugo Place,",BROWN HILL VIC 3350,4 Beds,2 Baths,2 Parking,,ballarat-vic,-37.5452943,143.9143086
+,,$580,"21 Manchado Street,",TARNEIT VIC 3029,4 Beds,2 Baths,2 Parking,,ballarat-vic,-37.8826,144.7003
+,,$650 weekly,"132 Cornwall Road,",SUNSHINE VIC 3020,5 Beds,2 Baths,3 Parking,,ballarat-vic,-37.7786528,144.8425679
+,,$460 per week ($1999pcm),"31 Linkage St,",BONSHAW VIC 3352,4 Beds,2 Baths,2 Parking,,ballarat-vic,-37.5996855,143.8216663
+,,$240,"63 Pintail Drive,",MELTON SOUTH VIC 3338,1 Bed,1 Bath,− Parking,,ballarat-vic,-37.719208,144.5789327
+,,$250,"8 Jacobena Road,",MELTON SOUTH VIC 3338,1 Bed,1 Bath,− Parking,,ballarat-vic,-37.7140748,144.5662005
+,,$730 Parkside living Highspeed unlimited WiFi PetFriendly,"224/109 Manningham St,",PARKVILLE VIC 3052,1 Bed,1 Bath,1 Parking,,ballarat-vic,-37.7877105,144.9423529
+,,$450 per week ($1955 pcm),"6 Fantail Street,",DELACOMBE VIC 3356,4 Beds,2 Baths,2 Parking,,ballarat-vic,-37.5853,143.8395
+,,$650 per week,"3/107 Ballarat Road,",MAIDSTONE VIC 3012,3 Beds,2 Baths,2 Parking,,ballarat-vic,-37.7816746,144.8659322
+,,$665 Parkside living Highspeed unlimited WiFi PetFriendly,"225/109 Manningham St,",PARKVILLE VIC 3052,2 Beds,2 Baths,1 Parking,,ballarat-vic,-37.7877105,144.9423529
+,,$750 per week Parkside living Highspeed unlimited WiFi PetFriendly,"403/109 Manningham St,",PARKVILLE VIC 3052,2 Beds,2 Baths,1 Parking,,ballarat-vic,-37.7877105,144.9423529
+,,$950 Parkside living Highspeed unlimited WiFi PetFriendly,"607/109 109 Manningham St,",PARKVILLE VIC 3052,2 Beds,2 Baths,1 Parking,,ballarat-vic,-37.7603,144.9502
+,,$670 Parkside living Highspeed unlimited WiFi PetFriendly,"121 109 Manningham St,",PARKVILLE VIC 3052,1 Bed,1 Bath,1 Parking,,ballarat-vic,-37.7877105,144.9423529
+$595 - $596 per week,,$595 - $596 per week,"33 Currong Street,",REID ACT 2612,2 Beds,1 Bath,1 Parking,,ballarat-vic,-35.2839691,149.1432609
+,,$390.00 per week,"73 McNulty Drive,",WENDOUREE VIC 3355,3 Beds,2 Baths,2 Parking,,ballarat-vic,-37.5281248,143.8149608
+,,$800 weekly,"1A Elliott St,",LAKE WENDOUREE VIC 3350,5 Beds,3 Baths,2 Parking,,ballarat-vic,-37.5589648,143.834308
+,,$330.00,"23 Queen Street,",SEBASTOPOL VIC 3356,2 Beds,1 Bath,1 Parking,,ballarat-vic,-37.6075149,143.8400476
+,,$340 weekly,"2/205 Ripon St S,",BALLARAT CENTRAL VIC 3350,2 Beds,1 Bath,1 Parking,,ballarat-vic,-37.5684687,143.8398635
+,,$360 weekly,"19 Rowe St,",BALLARAT EAST VIC 3350,3 Beds,1 Bath,1 Parking,,ballarat-vic,-37.5591122,143.8672939
+,,$420 p.w.,"302 Barkly Street,",BUNINYONG VIC 3357,5 Beds,2 Baths,− Parking,,ballarat-vic,-37.6451478,143.8837067
+,,$430 weekly,"1/27a Water St,",BROWN HILL VIC 3350,3 Beds,2 Baths,1 Parking,,ballarat-vic,-37.5571416,143.8932521
+,,$460.00,"9 Cartledge Avenue,",MOUNT CLEAR VIC 3350,4 Beds,2 Baths,2 Parking,,ballarat-vic,-37.6015718,143.8649978
+,,$415 p.w.,"9 Florence Court,",BROWN HILL VIC 3350,3 Beds,2 Baths,1 Parking,,ballarat-vic,-37.5516967,143.8945118
+,,$390 pw,"10 Mimosa Avenue,",ALFREDTON VIC 3350,3 Beds,1 Bath,− Parking,,ballarat-vic,-37.5501083,143.8028847
+,,$430 weekly,"1 Clayton Park Dr,",CANADIAN VIC 3350,3 Beds,1 Bath,2 Parking,,ballarat-vic,-37.577945,143.8803296
+,,$420 p.w.,"8 Linden Avenue,",WENDOUREE VIC 3355,3 Beds,1 Bath,2 Parking,,ballarat-vic,-37.539874,143.8432482
+,,$420 weekly,"104 Duggan St,",BLACK HILL VIC 3350,3 Beds,2 Baths,1 Parking,,ballarat-vic,-37.5473645,143.8750624
+,,$470 pw,"86 Gracefield Road,",BROWN HILL VIC 3350,4 Beds,2 Baths,2 Parking,,ballarat-vic,-37.5494131,143.9092428
+,,$520.00 per week,"1327 Geelong Road,",MOUNT CLEAR VIC 3350,5 Beds,2 Baths,1 Parking,,ballarat-vic,-37.6026609,143.8686287
+,,$510 per week,"207/6 Leicester Street,",CARLTON VIC 3053,1 Bed,1 Bath,− Parking,,ballarat-vic,-37.802198,144.9607524
+,,$450 per week,"Unit 1113/6 Leicester St,",CARLTON VIC 3053,1 Bed,1 Bath,− Parking,,ballarat-vic,-37.8004,144.9684
+,,$530 Per Week,"51 Messenger Parade,",LUCAS VIC 3350,4 Beds,2 Baths,2 Parking,,ballarat-vic,-37.5480646,143.7726339
+,,$400.00 per week,"15 Bala Street,",SEBASTOPOL VIC 3356,3 Beds,1 Bath,4 Parking,637m²,ballarat-vic,-37.5886462,143.8468737
+,,$620.00,"1A Walker Street,",BLACK HILL VIC 3350,3 Beds,2 Baths,2 Parking,,ballarat-vic,-37.5292,143.8591
+,,$725 per week,"3/462 Como Parade West,",MORDIALLOC VIC 3195,2 Beds,2 Baths,1 Parking,,ballarat-vic,-37.9973332,145.0807967
+,,$410.00 per week,"43 Inkerman Street,",MARYBOROUGH VIC 3465,4 Beds,1 Bath,1 Parking,,ballarat-vic,-37.0494027,143.7364805
+,,$520 per week,"206 Pleasant Street,",NEWINGTON VIC 3350,3 Beds,2 Baths,1 Parking,,ballarat-vic,-37.559785,143.83901
+,,$375 weekly,"202 Richards St,",BALLARAT EAST VIC 3350,3 Beds,1 Bath,2 Parking,,ballarat-vic,-37.5673947,143.8897628
+,,$380 weekly,"2/511 Drummond St Sth,",REDAN VIC 3350,2 Beds,1 Bath,1 Parking,,ballarat-vic,-37.5752704,143.845092
+,,$700.00,"505/300 Swanston Street,",MELBOURNE VIC 3000,2 Beds,1 Bath,1 Parking,,ballarat-vic,-37.8065731,144.9628193
+,,$670 per week,"30 Healey Drive,",EPPING VIC 3076,5 Beds,2 Baths,8 Parking,500m²,ballarat-vic,-37.6360961,145.0382555
+,,$950 Per Week,"7/398 Elgar Road,",BOX HILL VIC 3128,4 Beds,4 Baths,1 Parking,,ballarat-vic,-37.8177032,145.1149333
+,,$600,"204/150 Great Eastern Highway,",ASCOT WA 6104,1 Bed,1 Bath,1 Parking,,ballarat-vic,-31.9326052,115.9407868
+,,$650 Per Week,"7/2-8 Palmerston Street,",ST JAMES WA 6102,3 Beds,1 Bath,1 Parking,,ballarat-vic,1.06911,109.66393
+,,$380 weekly,"30 Greenhalghs Rd,",DELACOMBE VIC 3356,3 Beds,1 Bath,1 Parking,,ballarat-vic,-37.5844992,143.8079134
+,,$700 weekly,"3 Timor Cl,",BURWOOD VIC 3125,3 Beds,2 Baths,2 Parking,,ballarat-vic,-37.843169,145.1065259
+,,$345.00,"18/1 Mahers Road,",WARRENHEIP VIC 3352,2 Beds,2 Baths,1 Parking,,ballarat-vic,-37.565413,143.941758
+,,$780 per week,"5/48 Oxley Rd,",HAWTHORN VIC 3122,3 Beds,2 Baths,2 Parking,,ballarat-vic,-37.824108,145.035345
+,,$410.00,"20 Whidburn Place,",SEBASTOPOL VIC 3356,4 Beds,2 Baths,2 Parking,,ballarat-vic,-37.5938534,143.8280372
+,,$450.00 per week,"90 Dyson Drive,",LUCAS VIC 3350,4 Beds,2 Baths,2 Parking,448m²,ballarat-vic,-37.5443177,143.7869054
+,,$420 p.w.,"121 Warrina Drive,",DELACOMBE VIC 3356,3 Beds,2 Baths,4 Parking,,ballarat-vic,-37.5827504,143.8196211
+,,$355 per week,"239/386 Burwood Highway,",BURWOOD VIC 3125,1 Bed,1 Bath,− Parking,,ballarat-vic,-37.8498,145.119
+,,$360.00 per week,"338 Albert Street,",SEBASTOPOL VIC 3356,3 Beds,1 Bath,2 Parking,,ballarat-vic,-37.5841046,143.8409543
+,,$350.00,"69 Marigold Street,",WENDOUREE VIC 3355,3 Beds,1 Bath,1 Parking,,ballarat-vic,-37.5270217,143.8231273
+,,$440,"15 Parkmead Way,",ALFREDTON VIC 3350,4 Beds,2 Baths,2 Parking,635m²,ballarat-vic,-37.5584453,143.786103
+,,$470.00,"38 Honour Avenue,",WINTER VALLEY VIC 3358,4 Beds,2 Baths,2 Parking,,ballarat-vic,-37.5681474,143.7878052
+,,$850 weekly,"2004/103 South Wharf Drive,",DOCKLANDS VIC 3008,2 Beds,2 Baths,1 Parking,,ballarat-vic,-37.8221868,144.9362813
+,,$435.00,"69 Sundance Boulevard,",WINTER VALLEY VIC 3358,4 Beds,2 Baths,2 Parking,,ballarat-vic,-37.5874798,143.7977165
+,,$470.00,"18 Millbrook Road,",BONSHAW VIC 3352,4 Beds,2 Baths,2 Parking,,ballarat-vic,-37.8167,143.7667
+,,$380.00,"20 Kinnane Court,",BALLARAT NORTH VIC 3350,3 Beds,2 Baths,2 Parking,,ballarat-vic,-37.5389549,143.8633019
+,,$400 weekly,"3/15 Tallis Street,",NORLANE VIC 3214,2 Beds,2 Baths,1 Parking,,ballarat-vic,-38.0924322,144.3646223
+,,$380.00 per week,"4/905 Lydiard Street North,",BALLARAT NORTH VIC 3350,2 Beds,1 Bath,1 Parking,,ballarat-vic,-37.5415325,143.861528
+,,$400.00 per week,"5 Cuthberts Road,",ALFREDTON VIC 3350,3 Beds,1 Bath,1 Parking,,ballarat-vic,-37.5533235,143.7963601
+,,$450.00 per week,"85 Presentation Boulevard,",WINTER VALLEY VIC 3358,4 Beds,2 Baths,2 Parking,318m²,ballarat-vic,-37.5700121,143.7909325
+,,$360.00 per week,"719 La Trobe Street,",REDAN VIC 3350,2 Beds,1 Bath,1 Parking,252m²,ballarat-vic,-37.5726797,143.8363885
+,,$500.00,"2/42 Raleigh Road,",MARIBYRNONG VIC 3032,2 Beds,1 Bath,1 Parking,,ballarat-vic,-37.7689479,144.8868552
+,,$380.00,"11 Aquila Court,",BALLARAT NORTH VIC 3350,3 Beds,1 Bath,1 Parking,,ballarat-vic,-37.5439491,143.8700279
+,,$470.00,"12 Carbine Drive,",ALFREDTON VIC 3350,4 Beds,2 Baths,2 Parking,,ballarat-vic,-37.5548317,143.7888164
+,,$350 p.w.,"611 Barkly Street,",GOLDEN POINT VIC 3350,2 Beds,1 Bath,1 Parking,,ballarat-vic,-37.5668958,143.8656516
+,,$330 pw,"2/222 Peel Street North,",BALLARAT EAST VIC 3350,2 Beds,1 Bath,1 Parking,,ballarat-vic,-37.5594405,143.8644225
+,,$550,"21 Fifth Avenue,",ALTONA NORTH VIC 3025,3 Beds,1 Bath,1 Parking,,ballarat-vic,-37.8332736,144.8510236
+,,$450 pw,"12 Daimler Drive,",SMYTHES CREEK VIC 3351,4 Beds,2 Baths,2 Parking,,ballarat-vic,-37.5935502,143.7970838
+,,$350 per week,"1 Clarke Street,",ARARAT VIC 3377,3 Beds,1 Bath,1 Parking,,ballarat-vic,-37.2783056,142.9201977
+,,$430.00,"39 Wedge Tail Drive,",WINTER VALLEY VIC 3358,4 Beds,2 Baths,2 Parking,,ballarat-vic,-37.5726803,143.7859277
+,,$440.00,"50 Cumberland Boulevard,",WINTER VALLEY VIC 3358,4 Beds,2 Baths,2 Parking,,ballarat-vic,-37.571292,143.7937376
+,,$460.00,"73 Sundance Boulevard,",WINTER VALLEY VIC 3358,4 Beds,2 Baths,2 Parking,,ballarat-vic,-37.5874798,143.7977165
+,,$390.00,"23 Nelson Street,",SEBASTOPOL VIC 3356,3 Beds,1 Bath,2 Parking,,ballarat-vic,-37.6106051,143.8371832
+,,$375.00,"1/12 Edwards Street,",SEBASTOPOL VIC 3356,3 Beds,1 Bath,2 Parking,,ballarat-vic,-37.6012439,143.835915
+,,$500 p.w.,"11 Marion Street,",BONSHAW VIC 3352,4 Beds,2 Baths,2 Parking,,ballarat-vic,-37.6003087,143.8210348
+,,$480 p.w.,"4 Prophecy Road,",BONSHAW VIC 3352,4 Beds,2 Baths,2 Parking,,ballarat-vic,-37.8167,143.7667
+,,$360,"330 Armstrong Street North,",SOLDIERS HILL VIC 3350,2 Beds,1 Bath,− Parking,,ballarat-vic,-37.556949,143.8571868
+,,$500.00,"7 Jemacra Place,",MOUNT CLEAR VIC 3350,5 Beds,2 Baths,2 Parking,,ballarat-vic,-37.6053136,143.8723443
+,,$350 weekly,"1/23 Canterbury St,",BROWN HILL VIC 3350,2 Beds,1 Bath,1 Parking,,ballarat-vic,-37.5550049,143.8897869
+,,$410.00,"117B Adair Street,",REDAN VIC 3350,3 Beds,1 Bath,1 Parking,,ballarat-vic,-37.5739696,143.8325501
+,,$350 p.w.,"2/114 Mansfield Avenue,",MOUNT CLEAR VIC 3350,2 Beds,1 Bath,1 Parking,,ballarat-vic,-37.5980945,143.8660039
+,,$380.00 per week,"1/118 Birdwood Avenue,",SEBASTOPOL VIC 3356,2 Beds,1 Bath,1 Parking,190m²,ballarat-vic,-37.5976994,143.8316135
+,,$560.00,"805/408 Spencer Street,",WEST MELBOURNE VIC 3003,1 Bed,1 Bath,− Parking,,ballarat-vic,-37.8101,144.95
+,,$650 pw,"9 Cinnamon Drive,",LAKE GARDENS VIC 3355,4 Beds,2 Baths,2 Parking,457m²,ballarat-vic,-37.540731,143.8178183
+,,$ 440 pw,"84 Steamboat Avenue,",WINTER VALLEY VIC 3358,3 Beds,2 Baths,2 Parking,,ballarat-vic,-37.5856487,143.7944028
+,,$440 weekly,"102 Brittain St,",MOUNT PLEASANT VIC 3350,3 Beds,1 Bath,3 Parking,,ballarat-vic,-37.5881621,143.8613467
+,,$ 460 pw,"80 Steamboat Avenue,",WINTER VALLEY VIC 3358,4 Beds,2 Baths,2 Parking,,ballarat-vic,-37.5856487,143.7944028
+,,$650 pw,"9 Elliott Court,",BURNSIDE VIC 3023,4 Beds,2 Baths,2 Parking,,ballarat-vic,-37.7594977,144.7560201
+,,$ 475 pw,"52 Steamboat Avenue,",WINTER VALLEY VIC 3358,4 Beds,2 Baths,2 Parking,,ballarat-vic,-37.5862064,143.8008026
+,,$420.00 per week,"5 Grace Street,",MARYBOROUGH VIC 3465,3 Beds,2 Baths,2 Parking,,ballarat-vic,-37.0459856,143.7451539
+,,$450 p.w.,"1 Whidburn Place,",SEBASTOPOL VIC 3356,3 Beds,2 Baths,2 Parking,,ballarat-vic,-37.5938534,143.8280372
+,,$480.00 per week,"21 Goddard Street,",LUCAS VIC 3350,4 Beds,2 Baths,2 Parking,,ballarat-vic,-37.5481054,143.7618032
+,,$430.00,"1406/557-561 Little Lonsdale Street,",MELBOURNE VIC 3000,1 Bed,1 Bath,− Parking,,ballarat-vic,-37.814,144.9633
+,,$410.00 per week,"21 Carbine Drive,",ALFREDTON VIC 3350,3 Beds,2 Baths,2 Parking,360m²,ballarat-vic,-37.5548317,143.7888164
+,,$345 per week,"117/386 Burwood Highway,",BURWOOD VIC 3125,1 Bed,1 Bath,− Parking,,ballarat-vic,-37.8498,145.119
+,,$480.00,"509 Dana Street,",BALLARAT CENTRAL VIC 3350,3 Beds,2 Baths,2 Parking,,ballarat-vic,-37.563824,143.8520364
+,,$590 per week,"32 Golconda Avenue,",FRANKSTON VIC 3199,3 Beds,1 Bath,2 Parking,,ballarat-vic,-38.1411139,145.1493354
+,,$620 per week,"862A Ballarat Road,",DEER PARK VIC 3023,4 Beds,3 Baths,2 Parking,,ballarat-vic,-37.7714341,144.784497

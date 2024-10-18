@@ -1,0 +1,341 @@
+Agent Name,Agent Company,Price,Address Line 1,Address Line 2,Bedrooms,Bathrooms,Parking,Floor Space,Region,latitude,longitude
+,,$590 per week,"8 Tynong Street,",CROYDON VIC 3136,3 Beds,1 Bath,1 Parking,877m²,bendigo-vic,-37.7875726,145.2787375
+,,$500,"4 Waugh Street,",ROCKBANK VIC 3335,4 Beds,2 Baths,2 Parking,,bendigo-vic,-37.7329611,144.6498316
+,,$995,"122A Sussex Street,",EAST VICTORIA PARK WA 6101,4 Beds,2 Baths,2 Parking,,bendigo-vic,-31.9838389,115.9009195
+,,$450.00 per week,"5/3 Ryan Street,",NORTH BENDIGO VIC 3550,2 Beds,1 Bath,1 Parking,,bendigo-vic,-36.7454561,144.2830522
+,,$600 per week,"6 Athena Way,",STRATHFIELDSAYE VIC 3551,5 Beds,2 Baths,2 Parking,,bendigo-vic,-36.7975232,144.3400794
+,,$600 per week,"24 Jarrod Drive,",MCKENZIE HILL VIC 3451,4 Beds,2 Baths,2 Parking,,bendigo-vic,-37.0751856,144.1852909
+,,$480,"8 Chorley Street,",STRATHTULLOH VIC 3338,4 Beds,2 Baths,1 Parking,,bendigo-vic,-37.7236822,144.596732
+,,$510 per week,"7 Waler Street,",AINTREE VIC 3336,3 Beds,2 Baths,2 Parking,,bendigo-vic,-37.72042,144.6689989
+,,$470.00 per week,"4 The Terrace,",KENNINGTON VIC 3550,3 Beds,1 Bath,1 Parking,,bendigo-vic,-36.7774413,144.3028518
+,,$750 per week,"178 Nicholson St,",BRUNSWICK EAST VIC 3057,2 Beds,1 Bath,1 Parking,247m²,bendigo-vic,-37.7654728,144.9805539
+,,$680 per week,"10/8 Riversdale Road,",BURSWOOD WA 6100,1 Bed,1 Bath,1 Parking,,bendigo-vic,-31.9563359,115.9000791
+,,$450 weekly,"601/150 Dudley St,",WEST MELBOURNE VIC 3003,− 0 Beds,1 Bath,1 Parking,,bendigo-vic,-37.8101,144.95
+,,$450 per week,"58 Broadway,",ELWOOD VIC 3184,1 Bed,1 Bath,− Parking,,bendigo-vic,-37.8768281,144.9835959
+,,$650 per week,"512/668 Swanston Street,",CARLTON VIC 3053,1 Bed,1 Bath,1 Parking,,bendigo-vic,-37.8004,144.9684
+,,$550 per week,"4a Canrobert Street,",NEWSTEAD VIC 3462,3 Beds,2 Baths,2 Parking,,bendigo-vic,-37.1073483,144.0650109
+,,$450 per week,"7B Wirth Street,",FLORA HILL VIC 3550,3 Beds,2 Baths,2 Parking,216m²,bendigo-vic,-36.7809694,144.2945597
+,,$650 Per Week,"4 Crawley Court,",VIEWBANK VIC 3084,3 Beds,2 Baths,2 Parking,,bendigo-vic,-37.7362938,145.0917212
+,,$490 per week,"37 Sunset Boulevard,",JACANA VIC 3047,3 Beds,1 Bath,− Parking,639m²,bendigo-vic,-37.6911121,144.9154098
+,,$750,"77 Hemingway Drive,",ROCKBANK VIC 3335,5 Beds,5 Baths,2 Parking,,bendigo-vic,-37.7357449,144.6650069
+,,$640 PER WEEK,"2 Wigan Close,",WOLLERT VIC 3750,4 Beds,2 Baths,4 Parking,,bendigo-vic,-37.6169595,145.0240561
+,,$420.00 per week,"477 High Street,",GOLDEN SQUARE VIC 3555,3 Beds,1 Bath,− Parking,"1,012m²",bendigo-vic,-36.7789914,144.2508853
+,,$480 weekly,"2/8 Martin St,",GOLDEN GULLY VIC 3555,4 Beds,2 Baths,2 Parking,,bendigo-vic,-36.7856956,144.2640055
+,,$520 weekly,"58 Whirrakee Parade,",HUNTLY VIC 3551,4 Beds,2 Baths,2 Parking,,bendigo-vic,-36.6628957,144.3505094
+,,$385.00 per week,"2/46 Mackenzie St West,",GOLDEN SQUARE VIC 3555,2 Beds,1 Bath,1 Parking,,bendigo-vic,-36.7711621,144.2544163
+,,$590 weekly,"107/19 Irving Ave,",BOX HILL VIC 3128,2 Beds,1 Bath,1 Parking,,bendigo-vic,-37.8158711,145.1222744
+,,Under Application - Deposit Taken,"1301/557 Little Lonsdale St,",MELBOURNE VIC 3000,1 Bed,1 Bath,− Parking,,bendigo-vic,-37.8109981,144.9628452
+,,$580 weekly,"5/59 Tooronga Rd,",MALVERN EAST VIC 3145,2 Beds,1 Bath,1 Parking,"1,091m²",bendigo-vic,-37.8734046,145.0383518
+,,$430 PER WEEK,"5 Marshall Street,",KENNINGTON VIC 3550,3 Beds,1 Bath,1 Parking,,bendigo-vic,-36.7582,144.2802
+,,$520,"106/501-503 Plenty Road,",PRESTON VIC 3072,2 Beds,2 Baths,1 Parking,,bendigo-vic,-37.75,145.0167
+,,$580,"15/163 Hubert Street,",EAST VICTORIA PARK WA 6101,2 Beds,1 Bath,1 Parking,,bendigo-vic,-31.9907764,115.9106969
+,,$550,"4 Henderson Drive,",TARNEIT VIC 3029,4 Beds,2 Baths,2 Parking,,bendigo-vic,-37.8433637,144.6426152
+,,"$580.00 per week $2,520.00 per month",".20 Kosa Avenue,",SUNSHINE WEST VIC 3020,3 Beds,2 Baths,2 Parking,,bendigo-vic,-37.7950931,144.7920516
+,,$350 per week,"222 High Street,",HEATHCOTE VIC 3523,2 Beds,1 Bath,4 Parking,,bendigo-vic,-36.9172062,144.7035545
+,,$425 per week,"14 Ebden Street,",HEATHCOTE VIC 3523,3 Beds,1 Bath,3 Parking,,bendigo-vic,-36.9184395,144.7009225
+,,$700.00 per week incl. pool servicing & gardener,"8 Northmoor Drive,",STRATHDALE VIC 3550,4 Beds,2 Baths,2 Parking,,bendigo-vic,-36.7559059,144.3220229
+,,$800 per week,"70 Cobram Drive,",EYNESBURY VIC 3338,5 Beds,3 Baths,2 Parking,,bendigo-vic,-37.7855923,144.5538346
+,,$430.00 per week,"3 Walls Street,",EAGLEHAWK VIC 3556,3 Beds,1 Bath,2 Parking,,bendigo-vic,-36.7133675,144.2611513
+,,$465 per week,"1/381 Middleborough Road,",BOX HILL VIC 3128,2 Beds,1 Bath,− Parking,,bendigo-vic,-37.8199145,145.1382926
+,,$460,"1610/6 Leicester Street,",CARLTON VIC 3053,1 Bed,1 Bath,− Parking,,bendigo-vic,-37.802198,144.9607524
+,,$525 PER WEEK,"7 Dylana Court,",KANGAROO FLAT VIC 3555,3 Beds,2 Baths,2 Parking,,bendigo-vic,-36.8004506,144.231402
+,,"$1,075 weekly","42 Fairview Rd,",MOUNT WAVERLEY VIC 3149,5 Beds,2 Baths,2 Parking,,bendigo-vic,-37.8667417,145.1164592
+,,$580pw /$2520pcm,"20 Bent Street,",BUNDOORA VIC 3083,4 Beds,1 Bath,1 Parking,,bendigo-vic,-37.6979816,145.0597269
+,,$600 per week,"723 Midland Highway,",HUNTLY VIC 3551,5 Beds,2 Baths,2 Parking,,bendigo-vic,-36.6715546,144.3254178
+,,$975 per week,"506/1 Dank Street West,",PORT MELBOURNE VIC 3207,3 Beds,1 Bath,2 Parking,,bendigo-vic,-37.8329,144.922
+,,$650 weekly,"79 Ardmillan Rd,",MOONEE PONDS VIC 3039,3 Beds,1 Bath,2 Parking,,bendigo-vic,-37.7629189,144.9092671
+,,Under Application - Deposit Taken,"1302/557 Little Lonsdale St,",MELBOURNE VIC 3000,1 Bed,1 Bath,− Parking,,bendigo-vic,-37.8109981,144.9628452
+,,$520 per week,"6 McClellans Crescent,",ARGYLE VIC 3523,4 Beds,1 Bath,4 Parking,,bendigo-vic,-36.9494705,144.7272813
+,,6 Month Lease - $550 per week,"5718 Calder Highway,",KANGAROO FLAT VIC 3555,4 Beds,2 Baths,3 Parking,1.42ha,bendigo-vic,-36.7906991,144.2444488
+,,Under Application,"133 Nelson Rd,",BOX HILL NORTH VIC 3129,3 Beds,1 Bath,2 Parking,,bendigo-vic,-37.8125881,145.1202218
+,,$650 PW,"11 Bangalay Place,",POINT COOK VIC 3030,4 Beds,2 Baths,2 Parking,572m²,bendigo-vic,-37.9030495,144.747281
+,,$530 per week,"701/6 Leicester Street,",CARLTON VIC 3053,2 Beds,1 Bath,− Parking,,bendigo-vic,-37.802198,144.9607524
+,,$445 weekly,"19 Willan Street,",EAGLEHAWK VIC 3556,3 Beds,1 Bath,1 Parking,,bendigo-vic,-36.7198708,144.2587291
+,,$500,"9 Kerala Street,",ROCKBANK VIC 3335,4 Beds,2 Baths,1 Parking,,bendigo-vic,-37.7427695,144.6662207
+,,$480 per week,"817 18-28 Albert Street,",FOOTSCRAY VIC 3011,2 Beds,1 Bath,1 Parking,,bendigo-vic,-37.7995,144.8963
+,,"$3,500 per week","28 Janelle Way,",OCEAN GROVE VIC 3226,3 Beds,2 Baths,4 Parking,600m²,bendigo-vic,-38.2485008,144.5553815
+,,$510,"46 Bluebottle Parade,",ROCKBANK VIC 3335,4 Beds,2 Baths,2 Parking,,bendigo-vic,-37.7444148,144.6467109
+,,$335 per week,"235/386 Burwood Highway,",BURWOOD VIC 3125,1 Bed,1 Bath,− Parking,,bendigo-vic,-37.8498,145.119
+,,$500 weekly,"10 Heysen Way,",HUNTLY VIC 3551,3 Beds,2 Baths,2 Parking,,bendigo-vic,-36.6630086,144.3609732
+,,$570 per week,"2508/31 A'Beckett St,",MELBOURNE VIC 3000,1 Bed,1 Bath,1 Parking,,bendigo-vic,-37.814,144.9633
+,,$550,"15 Westbury Ave,",ROCKBANK VIC 3335,5 Beds,2 Baths,2 Parking,512m²,bendigo-vic,-37.7420647,144.6662495
+,,FULLY FURNISHED - $750 per week,"9 Rathlin Avenue,",JUNORTOUN VIC 3551,3 Beds,2 Baths,2 Parking,,bendigo-vic,-36.7824233,144.3422951
+,,$500 per week,"19-23 Marnie Road,",KENNINGTON VIC 3550,4 Beds,1 Bath,2 Parking,,bendigo-vic,-36.7814252,144.3087104
+,,Under Application - Deposit Taken,"702/845-851 Whitehorse Rd,",BOX HILL VIC 3128,3 Beds,2 Baths,1 Parking,,bendigo-vic,-37.8256,145.1232
+,,$750 - Large Warehouse-Style Apartment!,"35/1 Flagstaff Lane,",WEST MELBOURNE VIC 3003,2 Beds,2 Baths,1 Parking,,bendigo-vic,-37.8095186,144.9519321
+,,$560 weekly,"1006/545 Station St,",BOX HILL VIC 3128,1 Bed,1 Bath,1 Parking,,bendigo-vic,-37.8256,145.1232
+,,$480,"16 Zoe Street,",ROCKBANK VIC 3335,3 Beds,2 Baths,2 Parking,,bendigo-vic,-37.7349313,144.6608428
+,,$590 per week,"409/2 Hallenstein Street,",FOOTSCRAY VIC 3011,2 Beds,2 Baths,1 Parking,,bendigo-vic,-37.7998253,144.9080515
+,,$510 per week,"1 Blande Court,",LARA VIC 3212,3 Beds,2 Baths,2 Parking,,bendigo-vic,-38.0266872,144.4149844
+,,Contact Agent,"44/145 Canterbury Road,",TOORAK VIC 3142,1 Bed,1 Bath,− Parking,,bendigo-vic,-37.8432666,145.0103739
+,,$800.00,"1806/408 Spencer Street,",WEST MELBOURNE VIC 3003,2 Beds,2 Baths,1 Parking,,bendigo-vic,-37.8101,144.95
+,,$450,"20 GRAPPENHALL AVENUE,",STRATHTULLOH VIC 3338,4 Beds,2 Baths,2 Parking,,bendigo-vic,-37.7296522,144.5947442
+,,$650 weekly,"606/12-14 Nelson Rd,",BOX HILL VIC 3128,2 Beds,2 Baths,1 Parking,,bendigo-vic,-37.8256,145.1232
+,,335 per week,"130/386 Burwood Highway,",BURWOOD VIC 3125,1 Bed,1 Bath,− Parking,,bendigo-vic,-37.8498,145.119
+,,$490.00 per week,"320 Barnard Street,",IRONBARK VIC 3550,4 Beds,2 Baths,2 Parking,,bendigo-vic,-36.7607097,144.2636507
+,,$900 weekly,"1086 Settlement Rd,",CLARKEFIELD VIC 3430,4 Beds,2 Baths,2 Parking,"80,500m²",bendigo-vic,-37.4859753,144.7389736
+,,$540.00,"1 Russell Avenue,",WOODEND VIC 3442,3 Beds,1 Bath,3 Parking,,bendigo-vic,-37.3538786,144.5398306
+,,$595 per week,"32 Victoria,",PRESTON VIC 3072,2 Beds,1 Bath,2 Parking,165m²,bendigo-vic,-37.75,145.0167
+,,$550 weekly,"1 Lexton Rd,",BOX HILL NORTH VIC 3129,3 Beds,1 Bath,2 Parking,,bendigo-vic,-37.8121569,145.1364385
+,,$395 per week,"17/92 Grey St,",ST KILDA VIC 3182,− 0 Beds,1 Bath,− Parking,30m²,bendigo-vic,-37.864,144.9814916
+,,$600 pw,"25 Callanish Street,",TRUGANINA VIC 3029,4 Beds,2 Baths,2 Parking,,bendigo-vic,-37.814374,144.7136435
+,,$530 weekly,"8 Wattle St,",BOX HILL NORTH VIC 3129,3 Beds,1 Bath,2 Parking,,bendigo-vic,-37.8107889,145.119309
+,,"$1,950 per week","112 Harold St,",MIDDLE PARK VIC 3206,4 Beds,3 Baths,2 Parking,,bendigo-vic,-37.8517675,144.9582035
+,,"$1,150 weekly","280A Tucker Rd,",ORMOND VIC 3204,4 Beds,3 Baths,2 Parking,,bendigo-vic,-37.9066213,145.053271
+,,$525.00,"206 Gatehouse Place,",MARIBYRNONG VIC 3032,2 Beds,1 Bath,1 Parking,,bendigo-vic,-37.773624,144.8809804
+,,$630 per week,"2712/500 Elizabeth Street,",MELBOURNE VIC 3000,2 Beds,1 Bath,− Parking,,bendigo-vic,-37.7998626,144.9573647
+,,$620 pw,"15 Leeward Drive,",TARNEIT VIC 3029,4 Beds,2 Baths,2 Parking,,bendigo-vic,-37.8612781,144.6469924
+,,$460.00 per week - Fully Furnished,"1/9A Smith Street,",NORTH BENDIGO VIC 3550,1 Bed,1 Bath,1 Parking,,bendigo-vic,-36.7432355,144.2836663
+,,$580 PER WEEK,"7 Lauradan Way,",WOLLERT VIC 3750,4 Beds,2 Baths,2 Parking,,bendigo-vic,-37.6023219,145.0074468
+,,$510 pw,"41 Holman Crescent,",BACCHUS MARSH VIC 3340,4 Beds,2 Baths,2 Parking,,bendigo-vic,-37.7199,144.3727
+,,$400 weekly,"1 Dyason Ct,",LONG GULLY VIC 3550,3 Beds,1 Bath,− Parking,,bendigo-vic,-36.7516353,144.2571925
+,,$445.00,"43 Railway Street,",KANGAROO FLAT VIC 3555,2 Beds,1 Bath,1 Parking,,bendigo-vic,-36.8079669,144.2448189
+,,$475 per week.,"3A Fountain Street,",MALDON VIC 3463,2 Beds,1 Bath,− Parking,,bendigo-vic,-36.9971257,144.066371
+,,$525,"G11/110 Roberts Street,",WEST FOOTSCRAY VIC 3012,2 Beds,2 Baths,1 Parking,,bendigo-vic,-37.8302,144.8709
+,,$550 per week,"11 Carina Court,",POINT COOK VIC 3030,4 Beds,2 Baths,− Parking,,bendigo-vic,-37.8923118,144.7242842
+,,$400 per week,"2 Truscott Avenue,",CALIFORNIA GULLY VIC 3556,3 Beds,1 Bath,2 Parking,,bendigo-vic,-36.7226865,144.2691903
+,,$210 weekly,"1/133 Raleigh Road,",MARIBYRNONG VIC 3032,1 Bed,1 Bath,− Parking,,bendigo-vic,-37.7690186,144.8863597
+,,$445 per week,"7/1 Fiona Court,",ST KILDA VIC 3182,1 Bed,1 Bath,1 Parking,,bendigo-vic,-37.8637194,144.9878945
+,,$500 weekly,"2 Ascot Ct,",NORTH BENDIGO VIC 3550,3 Beds,2 Baths,2 Parking,,bendigo-vic,-36.7404181,144.2802402
+,,$800 per week,"1/5 Jaguar Dr,",CLAYTON VIC 3168,4 Beds,3 Baths,2 Parking,,bendigo-vic,-37.9266051,145.1318539
+,,$650 per week Unfurnished,"1 Tuckett Street,",ALPHINGTON VIC 3078,3 Beds,1 Bath,2 Parking,,bendigo-vic,-37.7810256,145.0229956
+,,$670 per week,"205/8 Sutherland Street,",MELBOURNE VIC 3000,2 Beds,2 Baths,− Parking,,bendigo-vic,-37.8110719,144.960791
+,,"$450.00 per Week $1,955.00","39 Shillings Road,",MAMBOURIN VIC 3024,3 Beds,2 Baths,2 Parking,,bendigo-vic,-37.8887919,144.6021464
+,,$500.00 Per Week,"971a Albany Highway,",EAST VICTORIA PARK WA 6101,1 Bed,1 Bath,2 Parking,,bendigo-vic,-31.9813744,115.9010123
+,,"$1,395 per week","21A Peel St,",KEW VIC 3101,4 Beds,3 Baths,2 Parking,380m²,bendigo-vic,-37.8057382,145.0328061
+,,"$420 per week $1,825.00","24 Hensbergh Place,",SUNSHINE WEST VIC 3020,1 Bed,1 Bath,1 Parking,,bendigo-vic,-37.7953315,144.8005162
+,,$620 PER WEEK,"11 Blunsdon Road,",WOLLERT VIC 3750,4 Beds,2 Baths,2 Parking,,bendigo-vic,-37.5960673,144.9926776
+,,$460.00 Per Week,"21 Nivea Street,",MAMBOURIN VIC 3024,3 Beds,2 Baths,2 Parking,,bendigo-vic,-37.8895189,144.5990849
+,,$600,"2 Ranni Place,",BONNIE BROOK VIC 3335,4 Beds,2 Baths,3 Parking,428m²,bendigo-vic,46.4194,14.6936
+,,$700 weekly,"9 Glenview Rd,",DONCASTER EAST VIC 3109,3 Beds,2 Baths,2 Parking,,bendigo-vic,-37.7982746,145.1630683
+,,$530 per week,"54 SOLITUDE CRESCENT,",POINT COOK VIC 3030,4 Beds,2 Baths,2 Parking,,bendigo-vic,-37.9045877,144.7181412
+,,$740.00,"1307/408 Spencer Street,",WEST MELBOURNE VIC 3003,2 Beds,1 Bath,− Parking,,bendigo-vic,-37.8101,144.95
+,,$780 per week,"2011/371 Little Lonsdale Street,",MELBOURNE VIC 3000,2 Beds,2 Baths,− Parking,,bendigo-vic,-37.8138183,144.9531186
+,,$800.00,"902/408 Spencer Street,",WEST MELBOURNE VIC 3003,2 Beds,2 Baths,− Parking,,bendigo-vic,-37.8101,144.95
+,,$650 per week,"1102/555 Swanston Street,",CARLTON VIC 3053,2 Beds,2 Baths,− Parking,,bendigo-vic,-37.8004,144.9684
+,,$650 per week Fully Furnished,"1/4A Ruth Street,",GOLDEN SQUARE VIC 3555,3 Beds,1 Bath,2 Parking,,bendigo-vic,-36.7607363,144.2550972
+,,$420 Per Week,"345B High Street,",KANGAROO FLAT VIC 3555,3 Beds,2 Baths,2 Parking,,bendigo-vic,-36.8185709,144.2378341
+,,$750.00,"309/408 Spencer Street,",WEST MELBOURNE VIC 3003,2 Beds,2 Baths,1 Parking,,bendigo-vic,-37.8101,144.95
+,,$600,"14B Kinlock Avenue,",FERNDALE WA 6148,3 Beds,1 Bath,3 Parking,,bendigo-vic,-32.0314973,115.9311438
+,,$520,"22 Driftwood Street,",AINTREE VIC 3336,4 Beds,2 Baths,2 Parking,,bendigo-vic,-37.7152381,144.670721
+,,"$1,550 per week","201/1 Wallace Avenue,",TOORAK VIC 3142,2 Beds,2 Baths,2 Parking,,bendigo-vic,-37.8407409,145.0072068
+,,$165,"Room 5/32 - 34 Churchill Avenue,",FLORA HILL VIC 3550,1 Bed,1 Bath,1 Parking,,bendigo-vic,-36.7582,144.2802
+,,$550,"G11/110 Roberts Street,",WEST FOOTSCRAY VIC 3012,2 Beds,2 Baths,1 Parking,,bendigo-vic,-37.8302,144.8709
+,,$550.00 per week - Fully Furnished,"158 Mitchell Street,",QUARRY HILL VIC 3550,2 Beds,1 Bath,1 Parking,,bendigo-vic,-36.7672042,144.2852127
+,,$550 per week,"10/949 Albany Highway,",EAST VICTORIA PARK WA 6101,2 Beds,1 Bath,1 Parking,,bendigo-vic,1.5,109.25
+,,$585 per week,"10/135 Fitzroy Street,",ST KILDA VIC 3182,2 Beds,1 Bath,1 Parking,,bendigo-vic,-37.8613356,144.974858
+,,$460 Per Week,"10 Hunter Street,",GOLDEN SQUARE VIC 3555,3 Beds,1 Bath,1 Parking,550m²,bendigo-vic,-36.7753973,144.257029
+,,$650.00,"1707/408 Spencer Street,",WEST MELBOURNE VIC 3003,2 Beds,1 Bath,− Parking,,bendigo-vic,-37.8101,144.95
+,,$640 per week,"20 Teak Street,",CAULFIELD VIC 3162,3 Beds,1 Bath,− Parking,318m²,bendigo-vic,-37.8924424,145.0277385
+,,$900.00,"1903/408 Spencer Street,",WEST MELBOURNE VIC 3003,2 Beds,2 Baths,1 Parking,,bendigo-vic,-37.8101,144.95
+,,$995 per week,"34 Bird Avenue,",NORTHCOTE VIC 3070,4 Beds,2 Baths,2 Parking,,bendigo-vic,-37.7619763,144.9920856
+,,$660.00,"1104/408 Spencer Street,",WEST MELBOURNE VIC 3003,2 Beds,1 Bath,− Parking,,bendigo-vic,-37.8101,144.95
+,,$780,"2609/545 Station Street,",BOX HILL VIC 3128,2 Beds,2 Baths,1 Parking,,bendigo-vic,-37.8256,145.1232
+,,$600 pw,"12 Clay Crescent,",ROCKBANK VIC 3335,5 Beds,3 Baths,2 Parking,,bendigo-vic,-37.7440829,144.6593622
+,,$790.00,"1002/408 Spencer Street,",WEST MELBOURNE VIC 3003,2 Beds,2 Baths,− Parking,,bendigo-vic,-37.8101,144.95
+,,$600,"30 Mainview Boulevard,",TRUGANINA VIC 3029,4 Beds,2 Baths,2 Parking,,bendigo-vic,-37.8394196,144.7340978
+,,$570 per week Unfurnished Inc. bill,"2/510 Station Street,",BOX HILL VIC 3128,3 Beds,1 Bath,2 Parking,,bendigo-vic,-37.8283527,145.1218953
+,,$290 per week,"41 Gillard St,",BURWOOD VIC 3125,1 Bed,1 Bath,− Parking,,bendigo-vic,-37.8554052,145.1140174
+,,$1000 Per Week,"6203/138 Spencer Street,",MELBOURNE VIC 3004,2 Beds,2 Baths,− Parking,,bendigo-vic,-37.814,144.9633
+,,$720 per week,"2206/639 Lonsdale Street,",MELBOURNE VIC 3000,2 Beds,2 Baths,− Parking,,bendigo-vic,-37.814,144.9633
+,,$440 per week,"230 Gordon St,",FOOTSCRAY VIC 3011,3 Beds,1 Bath,2 Parking,,bendigo-vic,-37.8009835,144.8877397
+,,$675 p.w,"23 Liege Avenue,",NOBLE PARK VIC 3174,3 Beds,2 Baths,1 Parking,,bendigo-vic,-37.9672835,145.1919102
+,,$430 Per Week,"40 Lowndes Street,",KENNINGTON VIC 3550,3 Beds,1 Bath,1 Parking,,bendigo-vic,-36.7707714,144.3054335
+,,$650 weekly,"1510/828 Whitehorse Rd,",BOX HILL VIC 3128,2 Beds,2 Baths,1 Parking,,bendigo-vic,-37.8256,145.1232
+,,$550,"6 Garner Grove,",ROCKBANK VIC 3335,4 Beds,2 Baths,2 Parking,,bendigo-vic,-37.7344721,144.6512774
+,,$510,"19 HARWICH STREET,",ROCKBANK VIC 3335,4 Beds,2 Baths,2 Parking,,bendigo-vic,-37.7219059,144.640391
+,,$800 weekly,"10 Canara St,",DONCASTER EAST VIC 3109,4 Beds,2 Baths,4 Parking,,bendigo-vic,-37.7926995,145.155491
+,,$550,"11 Jobs Road,",ROCKBANK VIC 3335,4 Beds,2 Baths,2 Parking,,bendigo-vic,-37.7357735,144.6632722
+,,$700 weekly,"503/10 Wominjeka Walk,",WEST MELBOURNE VIC 3003,2 Beds,2 Baths,1 Parking,,bendigo-vic,-37.8097885,144.9486298
+,,$450 Per Week FULLY FURNISHED,"10/23 Hallam Street,",QUARRY HILL VIC 3550,2 Beds,1 Bath,1 Parking,100m²,bendigo-vic,-36.7735704,144.285762
+,,$510,"9 Delhi Grove,",ROCKBANK VIC 3335,4 Beds,2 Baths,1 Parking,,bendigo-vic,-37.7436862,144.6640428
+,,$720 per week,"4912/33 ROSE Lane,",MELBOURNE VIC 3000,2 Beds,2 Baths,− Parking,,bendigo-vic,-37.814,144.9633
+,,$615 pw,"1 Coopworth Way,",ROCKBANK VIC 3335,4 Beds,3 Baths,2 Parking,,bendigo-vic,-37.7418798,144.6553772
+,,$680 pw,"76 McKinley Drive,",TRUGANINA VIC 3029,4 Beds,4 Baths,2 Parking,,bendigo-vic,-37.7650548,144.6962139
+,,$520 pw,"28 Tamworth Drive,",ROCKBANK VIC 3335,4 Beds,2 Baths,2 Parking,,bendigo-vic,-37.7335,144.67
+,,$480 pw,"42 Sedate Drive,",ROCKBANK VIC 3335,3 Beds,2 Baths,2 Parking,,bendigo-vic,-37.7392179,144.6540942
+,,$500 pw,"23 Delhi Grove,",ROCKBANK VIC 3335,4 Beds,2 Baths,2 Parking,,bendigo-vic,-37.7436862,144.6640428
+,,$500 Per Week,"2007/288 Spencer Street,",MELBOURNE VIC 3000,1 Bed,1 Bath,− Parking,,bendigo-vic,-37.814,144.9633
+,,$640 per week,"1/84 Broadway,",ELWOOD VIC 3184,2 Beds,1 Bath,− Parking,,bendigo-vic,-37.8768281,144.9835959
+,,"$1,100 per week","3/7A Osburn Ave,",BALWYN NORTH VIC 3104,4 Beds,3 Baths,1 Parking,,bendigo-vic,-37.793395,145.0743915
+,,$570.00 per week - Fully Furnished,"56 Myers Street,",BENDIGO VIC 3550,3 Beds,2 Baths,− Parking,,bendigo-vic,-36.7589418,144.2872191
+,,$600.00 per week - Fully Furnished,"17 Rodney St,",QUARRY HILL VIC 3550,3 Beds,1 Bath,1 Parking,,bendigo-vic,-36.7716701,144.2847694
+,,$580 Per Week Fully Furnished,"13/83-87 Arnold Street,",BENDIGO VIC 3550,2 Beds,2 Baths,2 Parking,,bendigo-vic,-36.7582,144.2802
+,,$600.00,"108/408 Spencer Street,",WEST MELBOURNE VIC 3003,1 Bed,1 Bath,− Parking,,bendigo-vic,-37.8101,144.95
+,,$950 per week,"3 Marmara,",ELSTERNWICK VIC 3185,3 Beds,1 Bath,3 Parking,,bendigo-vic,-37.8910362,145.0039514
+,,$690 per week,"81 Bent Street,",MOONEE PONDS VIC 3039,2 Beds,1 Bath,3 Parking,,bendigo-vic,-37.7626817,144.9355321
+,,$290 per week,"95 Carinish Road,",CLAYTON VIC 3168,− 0 Beds,1 Bath,− Parking,,bendigo-vic,-37.9242991,145.1205607
+,,$560 Per Week FULLY FURNISHED,"107 Casey Street,",EAST BENDIGO VIC 3550,3 Beds,1 Bath,1 Parking,,bendigo-vic,-36.7573766,144.3007508
+,,Contact Agent,"892 Hampton st,",BRIGHTON VIC 3186,3 Beds,1 Bath,3 Parking,659m²,bendigo-vic,-37.9065829,145.0085641
+,,$635 PER WEEK FULLY FURNISHED,"80 Vine Street,",BENDIGO VIC 3550,3 Beds,2 Baths,1 Parking,,bendigo-vic,-36.7634277,144.2731225
+,,$320 pw,"1/53 Bobs Street,",WHITE HILLS VIC 3550,2 Beds,1 Bath,1 Parking,,bendigo-vic,-36.7400324,144.2999385
+,,$400 per week,"6/8 Clarke Street,",KENNINGTON VIC 3550,,,,,bendigo-vic,-36.7663258,144.2967835
+,,$750 per week,"5C McIvor Court,",KENNINGTON VIC 3550,3 Beds,2 Baths,2 Parking,,bendigo-vic,-36.7600765,144.3048408
+,,$55 Per Week,"200 Spencer Street,",MELBOURNE VIC 3004,− 0 Beds,− 0 Baths,1 Parking,,bendigo-vic,-37.8162806,144.9532882
+,,$580.00 per week - Fully Furnished,"103/2 Queen Street,",BENDIGO VIC 3550,2 Beds,1 Bath,− Parking,,bendigo-vic,-36.7613392,144.2801674
+,,$550 per week,"8/380 Inkerman Street,",ST KILDA VIC 3182,1 Bed,1 Bath,1 Parking,,bendigo-vic,-37.8645511,144.9852833
+,,$630 per week,"10 Alfred Street,",BEAUMARIS VIC 3193,3 Beds,1 Bath,1 Parking,,bendigo-vic,-37.9766648,145.05149
+,,$620 PER WEEK FULLY FURNISHED,"1/20 Oneill Street,",NORTH BENDIGO VIC 3550,3 Beds,2 Baths,1 Parking,,bendigo-vic,-36.7582,144.2802
+,,$640.00 PER WEEK FULLY FURNISHED,"81 Averys Road,",JACKASS FLAT VIC 3556,3 Beds,1 Bath,1 Parking,,bendigo-vic,-36.7180284,144.2742617
+,,$680.00 PER WEEK FULLY FURNISHED,"2 Pitt Street,",BENDIGO VIC 3550,3 Beds,2 Baths,2 Parking,,bendigo-vic,-36.7602249,144.2661105
+,,Contact Agent,"290 Maribyrnong Road,",MOONEE PONDS VIC 3039,4 Beds,1 Bath,− Parking,,bendigo-vic,-37.7726018,144.9246348
+,,$580,"1/50 Elder Street,",WATSONIA VIC 3087,3 Beds,2 Baths,1 Parking,,bendigo-vic,-37.7142764,145.0920443
+,,$780.00 per week - Fully Furnished,"2/23 View Point,",BENDIGO VIC 3550,2 Beds,2 Baths,1 Parking,,bendigo-vic,-36.7593085,144.2779029
+,,$680 per week,"41 Drought Street,",BENDIGO VIC 3550,3 Beds,2 Baths,4 Parking,,bendigo-vic,-36.7507901,144.2771174
+,,$820 Per Week,"228 View Street,",BENDIGO VIC 3550,3 Beds,3 Baths,2 Parking,,bendigo-vic,-36.755423,144.2741649
+,,$560.00 per week - Fully Furnished,"1/65 McIvor Rd,",BENDIGO VIC 3550,2 Beds,1 Bath,1 Parking,,bendigo-vic,-36.7581711,144.297069
+,,$430.00 per week - Fully Furnished,"568 Hargreaves Street,",BENDIGO VIC 3550,1 Bed,1 Bath,1 Parking,309m²,bendigo-vic,-36.7625567,144.2767875
+,,$580.00 per week - Fully Furnished,"105 Lucan Street,",BENDIGO VIC 3550,2 Beds,1 Bath,2 Parking,,bendigo-vic,-36.7474699,144.2864566
+,,$660.00 per week - Fully Furnished,"13 Ucres Way,",GOLDEN SQUARE VIC 3555,3 Beds,2 Baths,2 Parking,,bendigo-vic,-36.7819509,144.2379206
+,,$470 per week - Fully Furnished,"1/164 Neale Street,",FLORA HILL VIC 3550,2 Beds,1 Bath,1 Parking,,bendigo-vic,-36.7796713,144.2909421
+,,$670.00 per week - Fully Furnished,"2/19 Creek Street,",BENDIGO VIC 3550,2 Beds,1 Bath,1 Parking,,bendigo-vic,-36.7628175,144.2751211
+,,$580 per week,"13 Rosalind Street,",BENDIGO VIC 3550,3 Beds,1 Bath,1 Parking,,bendigo-vic,-36.7531215,144.2767103
+,,$650 Per Week,"706/218 A'Beckett Street,",MELBOURNE VIC 3000,2 Beds,1 Bath,1 Parking,,bendigo-vic,-37.814,144.9633
+,,$240,"Berth 30/84A River Esplanade,",DOCKLANDS VIC 3008,1 Bed,1 Bath,1 Parking,50m²,bendigo-vic,-37.8149,144.9505
+,,Under Application,"6/8 Parring Rd,",BALWYN VIC 3103,2 Beds,1 Bath,2 Parking,,bendigo-vic,-37.8139475,145.090677
+,,$800.00 per week - Fully Furnished,"16 Michelsen Street,",NORTH BENDIGO VIC 3550,4 Beds,2 Baths,2 Parking,,bendigo-vic,-36.7464472,144.277888
+,,$560.00 per week - Fully Furnished,"11 Pyke Street,",QUARRY HILL VIC 3550,2 Beds,1 Bath,1 Parking,,bendigo-vic,-36.7696066,144.2807828
+,,$600 per week- Fully Furnished,"1 Reef Street,",BENDIGO VIC 3550,3 Beds,1 Bath,1 Parking,,bendigo-vic,-36.7595938,144.2678814
+,,$580 per week - Fully Furnished,"51 Gladstone Street,",QUARRY HILL VIC 3550,2 Beds,1 Bath,1 Parking,,bendigo-vic,-36.7664992,144.2835679
+,,$630.00 per week - Fully Furnished,"1A Carola Court,",KENNINGTON VIC 3550,3 Beds,2 Baths,1 Parking,,bendigo-vic,-36.7596647,144.3021518
+,,$65 pw,"539 St Kilda Road,",MELBOURNE VIC 3004,− 0 Beds,1 Bath,1 Parking,,bendigo-vic,-37.845647,144.9803033
+,,$620 FULLY FURNISHED,"4/17 Bobs Street,",BENDIGO VIC 3550,2 Beds,1 Bath,1 Parking,,bendigo-vic,-36.7400324,144.2999385
+,,$750 Fully Furnished,"7 Langley Drive,",EPSOM VIC 3551,4 Beds,2 Baths,2 Parking,,bendigo-vic,-36.7103675,144.3173093
+,,$810 Fully Furnished,"2/60A Honeysuckle Street,",IRONBARK VIC 3550,3 Beds,2 Baths,2 Parking,,bendigo-vic,-36.7590846,144.2641556
+,,$580 - Fully Furnished,"33A Pallett Street,",GOLDEN SQUARE VIC 3555,3 Beds,2 Baths,1 Parking,,bendigo-vic,-36.7645374,144.2515452
+,,$550 - Fully Furnished,"2 Miami Crt,",BENDIGO VIC 3550,3 Beds,1 Bath,1 Parking,,bendigo-vic,-36.7416056,144.289129
+,,$240 per month,"Car Space/6 Leicester Street,",CARLTON VIC 3053,1 Bed,1 Bath,1 Parking,,bendigo-vic,-37.8004,144.9684
+,,$420 - Fully Furnished,"242A Don Street,",BENDIGO VIC 3550,1 Bed,1 Bath,− Parking,,bendigo-vic,-36.7597899,144.268821
+,,$480 P/W,"1 Bed 1 Bath/34 Cowper Street,",FOOTSCRAY VIC 3011,1 Bed,1 Bath,− Parking,,bendigo-vic,-37.7995,144.8963
+,,Available Now - $600 P/W,"2 Bed 2 Bath/34 Cowper Street,",FOOTSCRAY VIC 3011,2 Beds,2 Baths,− Parking,,bendigo-vic,-37.7995,144.8963
+,,$650 Fully Furnished,"59 Hopetoun Street,",BENDIGO VIC 3550,3 Beds,1 Bath,1 Parking,,bendigo-vic,-36.7557264,144.2879834
+,,$630 Per Week Fully Furnished,"11A Afton Street,",NORTH BENDIGO VIC 3550,3 Beds,2 Baths,1 Parking,,bendigo-vic,-36.7427659,144.2878435
+,,$680 - Fully Furnished,"109 Hargreaves Street,",BENDIGO VIC 3550,3 Beds,2 Baths,1 Parking,,bendigo-vic,-36.7625567,144.2767875
+,,$520 - Fully Furnished,"5/7-9 View Point,",BENDIGO VIC 3550,2 Beds,1 Bath,− Parking,,bendigo-vic,-36.7593085,144.2779029
+,,$450 - Fully Furnished,"4/7-9 View Point,",BENDIGO VIC 3550,1 Bed,1 Bath,− Parking,,bendigo-vic,-36.7582,144.2802
+,,$700 - Fully Furnished,"3/78 Somerville Street,",FLORA HILL VIC 3550,4 Beds,2 Baths,2 Parking,,bendigo-vic,-36.7765203,144.2893093
+,,$700 - Fully Furnished,"3/35 Sternberg Street,",KENNINGTON VIC 3550,3 Beds,2 Baths,2 Parking,,bendigo-vic,-36.7576879,144.2922427
+,,$560 - Fully Furnished,"34 Olinda Street,",QUARRY HILL VIC 3550,2 Beds,1 Bath,1 Parking,,bendigo-vic,-36.7722757,144.276685
+,,$790 - Fully Furnished,"106 Mollison Street,",BENDIGO VIC 3550,4 Beds,3 Baths,2 Parking,,bendigo-vic,-36.7618056,144.2846057
+,,$650 - Fully Furnished,"18 Anderson Street,",NORTH BENDIGO VIC 3550,3 Beds,2 Baths,1 Parking,,bendigo-vic,-36.7487278,144.2748888
+,,$610 Fully Furnished,"1/19 Creek Street,",BENDIGO VIC 3550,2 Beds,2 Baths,1 Parking,,bendigo-vic,-36.7628175,144.2751211
+,,$650 Fully Furnished,"101 Queen Street,",BENDIGO VIC 3550,2 Beds,2 Baths,2 Parking,291m²,bendigo-vic,-36.7613392,144.2801674
+,,$600 - Fully Furnished,"2/164 Arnold Street,",NORTH BENDIGO VIC 3550,2 Beds,2 Baths,1 Parking,,bendigo-vic,-36.7437555,144.2744502
+,,$580 Fully Furnished,"1/164 Arnold Street,",BENDIGO VIC 3550,2 Beds,1 Bath,1 Parking,,bendigo-vic,-36.7522718,144.2865143
+,,$570.00 - Fully Furnished,"36 Honeysuckle Street,",BENDIGO VIC 3550,3 Beds,1 Bath,2 Parking,,bendigo-vic,-36.7633861,144.2670834
+,,$400 - Fully Furnished,"4/9A Smith. Street,",NORTH BENDIGO VIC 3550,1 Bed,1 Bath,1 Parking,,bendigo-vic,-36.7432355,144.2836663
+,,$540 - Fully Furnished,"9B Holt Street,",BENDIGO VIC 3550,2 Beds,2 Baths,1 Parking,,bendigo-vic,-36.7545551,144.2866652
+,,$590 - Per Week FULLY FURNISHED,"1/46 Lansell Street,",EAST BENDIGO VIC 3550,2 Beds,1 Bath,1 Parking,,bendigo-vic,-36.7557808,144.2992184
+,,$550 - Fully Furnished,"59 Mundy Street,",BENDIGO VIC 3550,2 Beds,1 Bath,− Parking,,bendigo-vic,-36.7601662,144.286448
+,,$560 - Fully Furnished,"21A Smith Street,",NORTH BENDIGO VIC 3550,2 Beds,2 Baths,1 Parking,,bendigo-vic,-36.7432355,144.2836663
+,,$850 per week - Fully Furnished,"230 View Street,",BENDIGO VIC 3550,3 Beds,3 Baths,2 Parking,,bendigo-vic,-36.755423,144.2741649
+,,$650 Per Week - Fully Furnished,"2 Ingleton Street,",NORTH BENDIGO VIC 3550,3 Beds,3 Baths,2 Parking,,bendigo-vic,-36.7423674,144.2726743
+,,$560 per week,"33 Currong Street South,",REID ACT 2612,2 Beds,1 Bath,1 Parking,"2,497m²",bendigo-vic,-35.2839691,149.1432609
+,,$670 - Fully Furnished,"2 Holt Street,",BENDIGO VIC 3550,3 Beds,2 Baths,1 Parking,,bendigo-vic,-36.7545551,144.2866652
+,,$480 - Fully Furnished,"1/113 Bridge Street,",BENDIGO VIC 3550,2 Beds,1 Bath,1 Parking,,bendigo-vic,-36.7460797,144.2887576
+,,$660 - Fully Furnished,"2/31 Booth Street,",GOLDEN SQUARE VIC 3555,3 Beds,2 Baths,2 Parking,,bendigo-vic,-36.7702887,144.2622752
+,,$570 - Fully Furnished,"22 Murphy Street,",BENDIGO VIC 3550,3 Beds,2 Baths,4 Parking,,bendigo-vic,-36.7285207,144.3135479
+,,$780 - Fully Furnished,"84 Sternberg Street,",BENDIGO VIC 3550,4 Beds,2 Baths,3 Parking,,bendigo-vic,-36.7576879,144.2922427
+,,$550 - Fully Furnished,"15 Uley Street,",BENDIGO VIC 3550,2 Beds,1 Bath,1 Parking,,bendigo-vic,-36.7514187,144.2828875
+,,$500 - Fully Furnished,"3/37 Day Street,",EAST BENDIGO VIC 3550,2 Beds,1 Bath,1 Parking,,bendigo-vic,-36.7506282,144.300363
+,,$650 - Per Week Fully Furnished,"3 Hoskins Street,",QUARRY HILL VIC 3550,2 Beds,2 Baths,1 Parking,,bendigo-vic,-36.7674278,144.2826798
+,,$800.00,"6 Hawkins Road,",MONTROSE VIC 3765,5 Beds,2 Baths,− Parking,,bendigo-vic,-37.8009117,145.3660596
+,,$480 pw,"3A Ajana Court,",GOLDEN SQUARE VIC 3555,3 Beds,2 Baths,2 Parking,,bendigo-vic,-36.7750036,144.2399984
+,,$550/w & Furnished Available Now,"4502/80 A'Beckett Street,",MELBOURNE VIC 3000,1 Bed,1 Bath,− Parking,,bendigo-vic,-37.814,144.9633
+,,$595,"804/333 Exhibition Street,",MELBOURNE VIC 3000,1 Bed,1 Bath,− Parking,,bendigo-vic,-37.8072513,144.9689086
+,,$550 per week,"18 Milos Court,",FRASER RISE VIC 3336,4 Beds,2 Baths,2 Parking,,bendigo-vic,-37.7139202,144.7191744
+,,$450,"10 Mccoy Street,",OMEO VIC 3898,3 Beds,1 Bath,3 Parking,,bendigo-vic,-37.1097623,147.596471
+,,$320,"4/9 Aviary Court,",STRATHDALE VIC 3550,2 Beds,1 Bath,1 Parking,,bendigo-vic,-36.7726796,144.312039
+,,$925/week,"2512/138 Spencer Street,",MELBOURNE VIC 3000,2 Beds,2 Baths,− Parking,,bendigo-vic,-37.814,144.9633
+,,$570.00 Per Week,"7 Frederick St,",BENDIGO VIC 3550,5 Beds,2 Baths,− Parking,,bendigo-vic,-36.7501126,144.2780046
+,,$570 weekly,"1501/63 Haig St,",SOUTHBANK VIC 3006,2 Beds,1 Bath,1 Parking,,bendigo-vic,-37.8228,144.9643
+,,$400 per week,"213/80 Cheltenham Road,",DANDENONG VIC 3175,1 Bed,1 Bath,− Parking,,bendigo-vic,-37.9912458,145.1970169
+,,$560 weekly,"3 Golden Grove,",GLEN WAVERLEY VIC 3150,4 Beds,1 Bath,1 Parking,,bendigo-vic,-37.873842,145.1718162
+,,$600 PER WEEK,"19 Hurkett St,,",MICKLEHAM VIC 3064,4 Beds,2 Baths,2 Parking,,bendigo-vic,-37.5483002,144.8977324
+,,$525.00 per week,"161 Waratah Road,",HUNTLY VIC 3551,4 Beds,2 Baths,2 Parking,,bendigo-vic,-36.6640501,144.3587211
+,,$540 per week,"10 Odea Crescent,",KANGAROO FLAT VIC 3555,4 Beds,2 Baths,2 Parking,838m²,bendigo-vic,-36.7726,144.2527
+,,$500,"20 Cromwell Road,",WERRIBEE VIC 3030,3 Beds,2 Baths,2 Parking,,bendigo-vic,-37.8732248,144.6604057
+,,$700.00 per week,"57 Hannans Road,",MANDURANG SOUTH VIC 3551,4 Beds,2 Baths,2 Parking,,bendigo-vic,-36.8467706,144.2741731
+,,$480.00 Per Week,"2/25 Albert Street,",EAGLEHAWK VIC 3556,3 Beds,2 Baths,2 Parking,346m²,bendigo-vic,-36.7333,144.25
+,,$480,"42 Caviar Court,",HUNTLY VIC 3551,4 Beds,2 Baths,2 Parking,,bendigo-vic,-36.6637535,144.3305894
+,,$650,"38 Bendigo Ct,",CRANBOURNE VIC 3977,4 Beds,2 Baths,2 Parking,,bendigo-vic,-38.0852828,145.2818134
+,,$460.00 per week,"25 Casey Street,",EAST BENDIGO VIC 3550,3 Beds,2 Baths,− Parking,,bendigo-vic,-36.7573766,144.3007508
+,,$480.00 Per Week,"14/14 Wireless Street,",KANGAROO FLAT VIC 3555,3 Beds,2 Baths,− Parking,,bendigo-vic,-36.7894309,144.2474132
+,,$420,"1/7 Regan Street,",ST ALBANS VIC 3021,1 Bed,1 Bath,1 Parking,,bendigo-vic,-37.729499,144.792894
+,,$590.00 Per Week,"60 Blossom Drive,",EPSOM VIC 3551,4 Beds,2 Baths,− Parking,,bendigo-vic,-36.7133164,144.2929048
+,,$550 Per Week,"17 Appalachian Street,",TRUGANINA VIC 3029,4 Beds,2 Baths,2 Parking,,bendigo-vic,-37.7608936,144.6946239
+,,$ 410 per week,"3 Harney Street,",BENDIGO VIC 3550,3 Beds,1 Bath,1 Parking,,bendigo-vic,-36.7466902,144.2861854
+,,$530 per week,"21 Regency Place,",KENNINGTON VIC 3550,3 Beds,2 Baths,3 Parking,,bendigo-vic,-36.7835706,144.3113165
+,,$520 per week,"4 Downley Loop,",STRATHTULLOH VIC 3338,4 Beds,2 Baths,2 Parking,,bendigo-vic,-37.7272956,144.5977917
+,,$560 per week,"63 Olympic Avenue,",NORLANE VIC 3214,3 Beds,2 Baths,2 Parking,,bendigo-vic,-38.0869494,144.3454031
+,,$690 weekly,"40 Barak St,",BULLEEN VIC 3105,4 Beds,2 Baths,2 Parking,,bendigo-vic,-37.7762995,145.0859313
+,,$475,"69 Ayesha Avenue,",MELTON SOUTH VIC 3338,3 Beds,2 Baths,2 Parking,,bendigo-vic,-37.6991359,144.5657705
+,,$720 per week,"5 Lignum Court,",TEMPLESTOWE LOWER VIC 3107,5 Beds,3 Baths,2 Parking,,bendigo-vic,-37.7720493,145.1268303
+,,$560,"51 Greenfield Drive,",EPSOM VIC 3551,4 Beds,2 Baths,2 Parking,,bendigo-vic,-36.6897642,144.32508
+,,$490.00 Per Week,"9 Forest Heights Drive,",KANGAROO FLAT VIC 3555,3 Beds,2 Baths,2 Parking,,bendigo-vic,-36.7868291,144.227654
+,,$480 Per week until March,"1608/500 Elizabeth Street,",MELBOURNE VIC 3000,1 Bed,1 Bath,− Parking,,bendigo-vic,-37.7998626,144.9573647
+,,$800 weekly,"49 Cargill St,",VICTORIA PARK WA 6100,3 Beds,2 Baths,2 Parking,,bendigo-vic,-31.972578,115.8914965
+,,$520 weekly,"7 Ekari Court,",YALLAMBIE VIC 3085,3 Beds,1 Bath,3 Parking,,bendigo-vic,-37.7218995,145.1055572
+,,$440pw,"1307/53 Batman Street,",WEST MELBOURNE VIC 3003,1 Bed,1 Bath,− Parking,,bendigo-vic,-37.8101,144.95
+,,$420 per week,"2/206 Neale Street,",FLORA HILL VIC 3550,2 Beds,1 Bath,1 Parking,,bendigo-vic,-36.7796713,144.2909421
+,,$390,"52 Peg Leg Road,",EAGLEHAWK VIC 3556,2 Beds,1 Bath,2 Parking,,bendigo-vic,-36.7176958,144.2504294
+,,$530 per week,"120/80 Cheltenham Road,",DANDENONG VIC 3175,2 Beds,2 Baths,1 Parking,,bendigo-vic,-37.9912458,145.1970169
+,,$440.00 Per Week,"137 Olympic Parade,",KANGAROO FLAT VIC 3555,3 Beds,1 Bath,1 Parking,,bendigo-vic,-36.7940258,144.2380724
+,,$460 weekly,"1/1298 Main Road,",ELTHAM VIC 3095,2 Beds,1 Bath,1 Parking,,bendigo-vic,-37.7278384,145.1463916
+,,$500,"3/91 Dianne Avenue,",CRAIGIEBURN VIC 3064,2 Beds,1 Bath,1 Parking,,bendigo-vic,-37.5957624,144.9305182
+,,$750 weekly,"3/92 Para Rd,",MONTMORENCY VIC 3094,3 Beds,2 Baths,2 Parking,,bendigo-vic,-37.7173344,145.1147998
+,,$650 weekly,"8 Wallagoot Walk,",CARRUM DOWNS VIC 3201,4 Beds,4 Baths,2 Parking,,bendigo-vic,-38.0980307,145.1916224
+,,$480 per week,"3/12A Lawson Street,",SPRING GULLY VIC 3550,4 Beds,2 Baths,2 Parking,349m²,bendigo-vic,-36.7867932,144.2824456
+,,$480 per week,"3 Wallace Avenue,",FLORA HILL VIC 3550,3 Beds,1 Bath,2 Parking,,bendigo-vic,-36.7732875,144.2889169
+,,$430.00 Per Week,"39 Caledonia Street,",NORTH BENDIGO VIC 3550,3 Beds,1 Bath,1 Parking,,bendigo-vic,-36.7418721,144.2885101
+,,$530,"4/54 East Esplanade,",ST ALBANS VIC 3021,3 Beds,3 Baths,4 Parking,,bendigo-vic,-37.7307041,144.7945703
+,,$550 per week,"1/22 Dearing Avenue,",CRANBOURNE VIC 3977,3 Beds,1 Bath,1 Parking,,bendigo-vic,-38.105759,145.2770982
+,,$620 per week,"708/850 Whitehorse Road,",BOX HILL VIC 3128,2 Beds,1 Bath,1 Parking,,bendigo-vic,-37.8256,145.1232
+,,$450.00 Per Week,"89 Symonds Street,",GOLDEN SQUARE VIC 3555,4 Beds,1 Bath,2 Parking,794m²,bendigo-vic,-36.7731895,144.2480624
+,,$540,"70 Vestige Circuit,",TARNEIT VIC 3029,4 Beds,2 Baths,4 Parking,335m²,bendigo-vic,-37.8233788,144.6874167
+,,$410 per week,"122 Osborne Street,",FLORA HILL VIC 3550,3 Beds,1 Bath,3 Parking,,bendigo-vic,-36.7807524,144.2886615
+,,$520,"18 Primary Road,",TARNEIT VIC 3029,3 Beds,2 Baths,2 Parking,263m²,bendigo-vic,-37.8826,144.7003
+,,$520 weekly,"15/44 Mcmaster St,",VICTORIA PARK WA 6100,2 Beds,1 Bath,1 Parking,,bendigo-vic,-31.9739084,115.8936077
+,,$550.00 Per Week,"20 Topaz Avenue,",WHITE HILLS VIC 3550,4 Beds,2 Baths,2 Parking,625m²,bendigo-vic,-36.7342823,144.2953402
+,,$420.00 Per Week,"14 Cambridge Crescent,",WHITE HILLS VIC 3550,2 Beds,1 Bath,2 Parking,527m²,bendigo-vic,-36.7326972,144.3042448
+,,$440.00 Per Week,"8 Spring Gully Road,",QUARRY HILL VIC 3550,3 Beds,2 Baths,1 Parking,,bendigo-vic,-36.7804373,144.284849
+,,Under Application,"9 Sutherland Avenue,",MELTON SOUTH VIC 3338,3 Beds,2 Baths,5 Parking,578m²,bendigo-vic,-37.6994792,144.5791203
+,,$920,"11/1781 Malvern Road,",GLEN IRIS VIC 3146,3 Beds,2 Baths,2 Parking,,bendigo-vic,-37.8599,145.0549
+,,$520,"3 Lindsay Street,",KANGAROO FLAT VIC 3555,3 Beds,2 Baths,3 Parking,,bendigo-vic,-36.7867206,144.2471751
+,,$475 per week,"14 McIvor Road,",BENDIGO VIC 3550,3 Beds,1 Bath,2 Parking,,bendigo-vic,-36.7582185,144.2887739
+,,$600.00 Per Week,"47 Bursaria St,",JACKASS FLAT VIC 3556,4 Beds,2 Baths,2 Parking,,bendigo-vic,-36.7105971,144.2836781
+,,$380.00 per week,"11A Ashley Street,",IRONBARK VIC 3550,2 Beds,1 Bath,1 Parking,,bendigo-vic,-36.755011,144.2653227
+,,$495,"1/17 Church Street,",KANGAROO FLAT VIC 3555,3 Beds,2 Baths,1 Parking,,bendigo-vic,-36.7992828,144.2449274
+,,$920 weekly,"3 Young St,",BOX HILL VIC 3128,3 Beds,2 Baths,2 Parking,,bendigo-vic,-37.8171987,145.1163199
+,,$480 Per Week,"59 Bronson Circuit,",HOPPERS CROSSING VIC 3029,3 Beds,2 Baths,1 Parking,,bendigo-vic,-37.8608753,144.6872141
+,,$500.00 Per Week,"362 Howard Street,",JACKASS FLAT VIC 3556,4 Beds,2 Baths,2 Parking,,bendigo-vic,-36.7044952,144.2845322
+,,$500.00 Per Week,"4 Whitelock Drive,",HUNTLY VIC 3551,3 Beds,2 Baths,2 Parking,,bendigo-vic,-36.6648345,144.3538602
+,,$500 per week,"28 Prouses Road,",NORTH BENDIGO VIC 3550,3 Beds,2 Baths,− Parking,,bendigo-vic,-36.7342062,144.2782807
+,,$420.00 Per Week,"7 Havelock Street,",BENDIGO VIC 3550,3 Beds,1 Bath,2 Parking,,bendigo-vic,-36.7522718,144.2865143
+,,Under Application,"11 Gramercy place,",STRATHTULLOH VIC 3338,4 Beds,2 Baths,3 Parking,,bendigo-vic,-37.7269779,144.61136
+,,$520 per week,"27 Pedirka Road,",TRUGANINA VIC 3029,3 Beds,2 Baths,1 Parking,,bendigo-vic,-37.7680725,144.6857966
+,,$450.00 Per Week,"3/25 Somerville St,,",FLORA HILL VIC 3550,1 Bed,1 Bath,1 Parking,,bendigo-vic,-36.7765203,144.2893093
+,,$580,"10/966 Albany Highway,",EAST VICTORIA PARK WA 6101,1 Bed,1 Bath,1 Parking,,bendigo-vic,1.5,109.25
+,,$440.00 Per Week,"1/48 Panton Street,",GOLDEN SQUARE VIC 3555,3 Beds,2 Baths,1 Parking,,bendigo-vic,-36.7711987,144.2631484
+,,$535 Per Week,"1 Evesham Drive,",POINT COOK VIC 3030,4 Beds,2 Baths,2 Parking,,bendigo-vic,-37.9017064,144.7597983
+,,$530.00 per week,"42-46 Shelley Street,",SPRING GULLY VIC 3550,3 Beds,1 Bath,− Parking,,bendigo-vic,-36.7892074,144.2805613
+,,$540,"6 Surround Circuit,",BONNIE BROOK VIC 3335,4 Beds,2 Baths,2 Parking,,bendigo-vic,-37.7086078,144.6784588
+,,$900.00 PER WEEK,"13 Jackson Road,",KARAWARA WA 6152,4 Beds,2 Baths,2 Parking,,bendigo-vic,-32.0058305,115.8797913
+,,$570.00 Per Week,"141 Sawmill Rd,",HUNTLY VIC 3551,4 Beds,2 Baths,2 Parking,,bendigo-vic,-36.65746,144.3264154
+,,$500 Per Week,"79 Wagner Drive,",WERRIBEE VIC 3030,4 Beds,2 Baths,2 Parking,,bendigo-vic,-37.9171981,144.6335882
+,,$510 per week,"250 Napier Street,",BENDIGO VIC 3550,4 Beds,2 Baths,2 Parking,,bendigo-vic,-36.7351767,144.3020684
+,,$560 Per Week,"71 Starboard Way,",WERRIBEE SOUTH VIC 3030,4 Beds,2 Baths,2 Parking,,bendigo-vic,-37.963701,144.7088524
+,,$650 weekly,"3 Shoreline Cr,",CARRUM DOWNS VIC 3201,4 Beds,2 Baths,2 Parking,,bendigo-vic,-38.0980715,145.1919751
+,,$520.00 Per Week,"1/8A Flood Street,",BENDIGO VIC 3550,2 Beds,2 Baths,1 Parking,,bendigo-vic,-36.7492517,144.2790075
+,,"$580 Per Week, Including Lawns Mowed","1385 Heatherton Road,",DANDENONG NORTH VIC 3175,3 Beds,1 Bath,2 Parking,590m²,bendigo-vic,-37.9703583,145.2176898
+,,$550,"24 Curtin Street,",FLORA HILL VIC 3550,4 Beds,2 Baths,2 Parking,,bendigo-vic,-36.7749599,144.2955125
+,,$500 per week,"38 Daisy Street,",HUNTLY VIC 3551,4 Beds,2 Baths,2 Parking,,bendigo-vic,-36.6598666,144.3442445
+,,$470 Per Week,"15 Bendigo Drive,",TARNEIT VIC 3029,3 Beds,2 Baths,1 Parking,,bendigo-vic,-37.8381106,144.6477275
+,,$870 weekly,"3103/100 Lorimer St,",DOCKLANDS VIC 3008,2 Beds,2 Baths,2 Parking,,bendigo-vic,-37.8149,144.9505
+,,$610 weekly,"6108/172 Edward St,",BRUNSWICK EAST VIC 3057,2 Beds,2 Baths,1 Parking,,bendigo-vic,-37.7603,144.9502
+,,$520,"2/29 Vincent Avenue,",ST ALBANS VIC 3021,3 Beds,2 Baths,2 Parking,,bendigo-vic,-37.7451799,144.808638
+,,$620.00 Per Week,"17 Weeks Road,",ASCOT VIC 3551,4 Beds,2 Baths,2 Parking,,bendigo-vic,-36.6903923,144.330939
+,,$495 weekly,"LG 202/45 Linden Avenue,",IVANHOE VIC 3079,1 Bed,1 Bath,1 Parking,,bendigo-vic,-37.754915,145.0543999
+,,$500,"4 Oldaker Road,",HUNTLY VIC 3551,3 Beds,2 Baths,2 Parking,,bendigo-vic,-36.6632218,144.3469819
+,,$750,"615C/2 Snedden Drive,",GLEN WAVERLEY VIC 3150,2 Beds,2 Baths,1 Parking,,bendigo-vic,-37.8891,145.174
+,,$800 **INSPECTION UPON REQUEST**,"1810/462 Elizabeth Street,",MELBOURNE VIC 3000,2 Beds,2 Baths,− Parking,,bendigo-vic,-37.814,144.9633

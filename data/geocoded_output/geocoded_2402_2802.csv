@@ -1,0 +1,345 @@
+Agent Name,Agent Company,Price,Address Line 1,Address Line 2,Bedrooms,Bathrooms,Parking,Floor Space,Region,latitude,longitude
+,,$390 p.w.,"4/412A Wilson Street,",BALLARAT EAST VIC 3350,3 Beds,1 Bath,1 Parking,,ballarat-vic,-37.5292,143.8591
+,,$380 per week,"6/406 Lower Heidelberg Road,",EAGLEMONT VIC 3084,1 Bed,1 Bath,1 Parking,100m²,ballarat-vic,-37.7658239,145.0670583
+,,$460.00 per week,"65 Presentation Boulevard,",WINTER VALLEY VIC 3358,4 Beds,2 Baths,2 Parking,,ballarat-vic,-37.5700121,143.7909325
+,,$700.00,"35/174 Peel Street,",WINDSOR VIC 3181,2 Beds,2 Baths,1 Parking,,ballarat-vic,-37.853,144.9929
+,,$590 per week,"8 Tynong Street,",CROYDON VIC 3136,3 Beds,1 Bath,1 Parking,877m²,ballarat-vic,-37.7875726,145.2787375
+,,$600.00,"233 Nerrina Road,",NERRINA VIC 3350,5 Beds,2 Baths,2 Parking,,ballarat-vic,-37.5427819,143.8799012
+,,$610.00,"66 Masada Boulevard,",SMYTHES CREEK VIC 3351,3 Beds,2 Baths,6 Parking,,ballarat-vic,-37.6116,143.585
+,,$550.00,"31 Martland Street,",LUCAS VIC 3350,4 Beds,3 Baths,2 Parking,,ballarat-vic,-37.5526935,143.7838179
+,,$475.00,"16 St Michaels Place,",LAKE GARDENS VIC 3355,3 Beds,2 Baths,2 Parking,,ballarat-vic,-37.5477751,143.8196645
+,,$500 pw,"402 Ripon Street,",BALLARAT CENTRAL VIC 3350,3 Beds,2 Baths,2 Parking,,ballarat-vic,-37.5601373,143.8413834
+,,$380 pw,"4/4 Wood Street,",SOLDIERS HILL VIC 3350,2 Beds,1 Bath,1 Parking,,ballarat-vic,-37.5438928,143.8520901
+,,$470.00,"17 Leitrim Street,",ALFREDTON VIC 3350,4 Beds,2 Baths,2 Parking,,ballarat-vic,-37.5659401,143.7994195
+,,$400 weekly,"10 Eddy St,",GOLDEN POINT VIC 3350,3 Beds,1 Bath,1 Parking,559m²,ballarat-vic,-37.5677294,143.8627194
+,,$350 per week,"1 Domain Gardens,",SEBASTOPOL VIC 3356,2 Beds,1 Bath,1 Parking,,ballarat-vic,-37.5832746,143.8361439
+,,$500,"4 Waugh Street,",ROCKBANK VIC 3335,4 Beds,2 Baths,2 Parking,,ballarat-vic,-37.7329611,144.6498316
+,,$380 per week,"11 Monash Place,",CANADIAN VIC 3350,2 Beds,2 Baths,1 Parking,,ballarat-vic,-37.5915199,143.8677091
+,,$995,"122A Sussex Street,",EAST VICTORIA PARK WA 6101,4 Beds,2 Baths,2 Parking,,ballarat-vic,-31.9838389,115.9009195
+,,$465.00,"7 Bella Terrace,",BAKERY HILL VIC 3350,3 Beds,2 Baths,2 Parking,,ballarat-vic,-37.5292,143.8591
+,,$420.00 per week,"14 Mauger Street,",WENDOUREE VIC 3355,3 Beds,2 Baths,2 Parking,,ballarat-vic,-37.5230734,143.8273961
+,,$475.00 per week,"11 Mullingar Drive,",ALFREDTON VIC 3350,4 Beds,2 Baths,2 Parking,,ballarat-vic,-37.5646449,143.8006421
+,,$300.00,"2/606 Lydiard St North,",SOLDIERS HILL VIC 3350,2 Beds,1 Bath,1 Parking,,ballarat-vic,-37.5554475,143.8589853
+,,$355.00 per week,"316/133 Droop Street,",FOOTSCRAY VIC 3011,1 Bed,1 Bath,− Parking,,ballarat-vic,-37.7995,144.8963
+,,$380.00,"2 Ivanhoe Street,",WENDOUREE VIC 3355,3 Beds,1 Bath,1 Parking,,ballarat-vic,-37.5239833,143.8283263
+,,$630 per week,"52 Ballarat Street,",YARRAVILLE VIC 3013,2 Beds,1 Bath,− Parking,,ballarat-vic,-37.8210635,144.8900742
+,,$600 per week,"6 Athena Way,",STRATHFIELDSAYE VIC 3551,5 Beds,2 Baths,2 Parking,,ballarat-vic,-36.7975232,144.3400794
+,,$440.00,"61 Steamboat Avenue,",WINTER VALLEY VIC 3358,4 Beds,2 Baths,2 Parking,,ballarat-vic,-37.5857203,143.796674
+,,$490 Per Week,"933 Ballarat Road,",DEER PARK VIC 3023,3 Beds,1 Bath,1 Parking,,ballarat-vic,-37.7714341,144.784497
+,,$480,"8 Chorley Street,",STRATHTULLOH VIC 3338,4 Beds,2 Baths,1 Parking,,ballarat-vic,-37.7236822,144.596732
+,,$510 per week,"7 Waler Street,",AINTREE VIC 3336,3 Beds,2 Baths,2 Parking,,ballarat-vic,-37.72042,144.6689989
+,,$300.00 per week,"11/901 Gregory Street,",LAKE WENDOUREE VIC 3350,2 Beds,1 Bath,1 Parking,,ballarat-vic,-37.5409194,143.8221019
+,,$750 per week,"178 Nicholson St,",BRUNSWICK EAST VIC 3057,2 Beds,1 Bath,1 Parking,247m²,ballarat-vic,-37.7654728,144.9805539
+,,$800.00 per week,"5 Lythgo Court,",CARDIGAN VIC 3352,4 Beds,2 Baths,6 Parking,"2,000m²",ballarat-vic,-37.5335567,143.7755869
+,,$680 per week,"10/8 Riversdale Road,",BURSWOOD WA 6100,1 Bed,1 Bath,1 Parking,,ballarat-vic,-31.9563359,115.9000791
+,,$500 pw,"21 Merino Drive,",ALFREDTON VIC 3350,4 Beds,2 Baths,2 Parking,,ballarat-vic,-37.5580064,143.7955563
+,,$450.00,"310 Skipton Street,",BALLARAT CENTRAL VIC 3350,3 Beds,2 Baths,1 Parking,,ballarat-vic,-37.5679631,143.8539386
+,,$450 weekly,"601/150 Dudley St,",WEST MELBOURNE VIC 3003,− 0 Beds,1 Bath,1 Parking,,ballarat-vic,-37.8101,144.95
+,,$480pw/ $2085pcm,"2/22 Summerhill Road,",FOOTSCRAY VIC 3011,2 Beds,1 Bath,1 Parking,,ballarat-vic,-37.7966362,144.8816105
+,,$420.00 per week,"195-197 Howe Street,",MINERS REST VIC 3352,3 Beds,1 Bath,6 Parking,,ballarat-vic,-37.4900065,143.8046455
+,,$360 pw,"2/716 Gregory Street,",SOLDIERS HILL VIC 3350,2 Beds,2 Baths,1 Parking,,ballarat-vic,-37.5454297,143.8593153
+,,$430.00 per week,"21 Eucalyptus Court,",BEAUFORT VIC 3373,3 Beds,2 Baths,2 Parking,,ballarat-vic,-37.4318032,143.3695539
+,,$800.00,"3 Evergreen Drive,",ALFREDTON VIC 3350,5 Beds,3 Baths,2 Parking,,ballarat-vic,-37.5458624,143.8063923
+,,$400 weekly,"324 Lyons Street South,",BALLARAT CENTRAL VIC 3350,4 Beds,1 Bath,1 Parking,293m²,ballarat-vic,-37.570432,143.8502103
+,,$450 per week,"58 Broadway,",ELWOOD VIC 3184,1 Bed,1 Bath,− Parking,,ballarat-vic,-37.8768281,144.9835959
+,,$480 pw,"11 Millbrook Road,",BONSHAW VIC 3352,4 Beds,2 Baths,2 Parking,496m²,ballarat-vic,-37.8167,143.7667
+,,$340.00 per week,"1 Pozieres Place,",SEBASTOPOL VIC 3356,2 Beds,2 Baths,1 Parking,221m²,ballarat-vic,-37.5944823,143.8323421
+,,$290.00 Per room,"8 Warbler Court,",WINTER VALLEY VIC 3358,3 Beds,3 Baths,2 Parking,,ballarat-vic,-37.5746654,143.7842517
+,,$370 per week,"12 YARRA PARK DRIVE,",SEBASTOPOL VIC 3356,3 Beds,1 Bath,1 Parking,,ballarat-vic,-37.5935694,143.8264325
+,,$360.00 per week,"1/808 Humffray Street South,",MOUNT PLEASANT VIC 3350,2 Beds,1 Bath,1 Parking,,ballarat-vic,-37.5754413,143.8515618
+,,$650 per week,"512/668 Swanston Street,",CARLTON VIC 3053,1 Bed,1 Bath,1 Parking,,ballarat-vic,-37.8004,144.9684
+,,$800.00 per week,"71 Primes Court,",BALLIANG VIC 3340,17ha,,,,ballarat-vic,-37.8045126,144.381106
+,,$400,"106 Daylesford Road,",BROWN HILL VIC 3350,3 Beds,1 Bath,2 Parking,,ballarat-vic,-37.5502136,143.9064362
+,,$450.00,"815 Doveton St North,",SOLDIERS HILL VIC 3350,3 Beds,2 Baths,1 Parking,,ballarat-vic,-37.5551087,143.855996
+,,$320.00,"4/222 Drummond St South,",BALLARAT CENTRAL VIC 3350,1 Bed,1 Bath,− Parking,,ballarat-vic,-37.5690455,143.8459382
+,,$430.00 per week,"62 Yarrowee Street,",SEBASTOPOL VIC 3356,4 Beds,2 Baths,4 Parking,713m²,ballarat-vic,-37.59274,143.8429766
+,,$460 pw,"60 Snowbird Road,",WINTER VALLEY VIC 3358,4 Beds,2 Baths,2 Parking,,ballarat-vic,-37.585003,143.7975078
+,,$410.00 Per week,"923A Geelong Road,",CANADIAN VIC 3350,3 Beds,2 Baths,2 Parking,,ballarat-vic,-37.5850948,143.8675749
+,,$500 pw,"12 Cassowary Way,",WINTER VALLEY VIC 3358,4 Beds,2 Baths,2 Parking,,ballarat-vic,-37.5711743,143.7989562
+,,$470 Per Week,"12 Beartooth Drive,",WINTER VALLEY VIC 3358,4 Beds,2 Baths,2 Parking,504m²,ballarat-vic,-37.5881163,143.7962219
+,,$490 pw,"33 Walters Way,",ALFREDTON VIC 3350,4 Beds,2 Baths,2 Parking,,ballarat-vic,-37.5292,143.8591
+,,$480 p.w.,"4 Parbury Avenue,",LAKE GARDENS VIC 3355,4 Beds,2 Baths,2 Parking,,ballarat-vic,-37.5448119,143.8134584
+,,$420 pw,"16 Lal Lal Street,",GOLDEN POINT VIC 3350,3 Beds,1 Bath,2 Parking,,ballarat-vic,-37.5750086,143.8691425
+,,$450 p.w.,"9 Latitude Court,",BALLARAT EAST VIC 3350,3 Beds,1 Bath,2 Parking,,ballarat-vic,-37.5681448,143.8735715
+,,$650 Per Week,"4 Crawley Court,",VIEWBANK VIC 3084,3 Beds,2 Baths,2 Parking,,ballarat-vic,-37.7362938,145.0917212
+,,$490 per week,"37 Sunset Boulevard,",JACANA VIC 3047,3 Beds,1 Bath,− Parking,639m²,ballarat-vic,-37.6911121,144.9154098
+,,$750,"77 Hemingway Drive,",ROCKBANK VIC 3335,5 Beds,5 Baths,2 Parking,,ballarat-vic,-37.7357449,144.6650069
+,,$470 weekly,"15 Overall St,",LUCAS VIC 3350,4 Beds,2 Baths,2 Parking,392m²,ballarat-vic,-37.5489275,143.7690668
+,,$640 PER WEEK,"2 Wigan Close,",WOLLERT VIC 3750,4 Beds,2 Baths,4 Parking,,ballarat-vic,-37.6169595,145.0240561
+,,$510.00,"170 McDonalds Road,",CLUNES VIC 3370,4 Beds,2 Baths,4 Parking,,ballarat-vic,-37.2596041,143.7706205
+,,$325 weekly,"4/1110 Howitt Street,",WENDOUREE VIC 3355,2 Beds,1 Bath,1 Parking,,ballarat-vic,-37.5389889,143.8223762
+,,$430.00 per week,"186 Majestic Way,",WINTER VALLEY VIC 3358,4 Beds,2 Baths,2 Parking,,ballarat-vic,-37.576832,143.7954541
+,,$300.00,"3 Duke Street,",NEWINGTON VIC 3350,2 Beds,1 Bath,− Parking,,ballarat-vic,-37.5633155,143.8362278
+,,$590 weekly,"107/19 Irving Ave,",BOX HILL VIC 3128,2 Beds,1 Bath,1 Parking,,ballarat-vic,-37.8158711,145.1222744
+,,Under Application - Deposit Taken,"1301/557 Little Lonsdale St,",MELBOURNE VIC 3000,1 Bed,1 Bath,− Parking,,ballarat-vic,-37.8109981,144.9628452
+,,$580 weekly,"5/59 Tooronga Rd,",MALVERN EAST VIC 3145,2 Beds,1 Bath,1 Parking,"1,091m²",ballarat-vic,-37.8734046,145.0383518
+,,$460 Per Week,"3 Electro Street,",WINTER VALLEY VIC 3358,4 Beds,2 Baths,2 Parking,406m²,ballarat-vic,-37.588485,143.8041054
+,,$460 Per Week,"7 Electro Street,",WINTER VALLEY VIC 3358,4 Beds,2 Baths,2 Parking,406m²,ballarat-vic,-37.588485,143.8041054
+,,$750.00 Per Week - Including Gardener and Cleaning,"193 Mount Buninyong Road,",BUNINYONG VIC 3357,3 Beds,2 Baths,8 Parking,,ballarat-vic,-37.6494811,143.9203609
+,,$440.00 per week,"30 Holgate Road,",LUCAS VIC 3350,4 Beds,2 Baths,2 Parking,538m²,ballarat-vic,-37.5509218,143.7775805
+,,$395.00 per week,"306 Doveton Street North,",SOLDIERS HILL VIC 3350,2 Beds,1 Bath,2 Parking,,ballarat-vic,-37.5551087,143.855996
+,,$250,"1/2 Aubrey Street,",WENDOUREE VIC 3355,2 Beds,1 Bath,1 Parking,,ballarat-vic,-37.5286077,143.8285602
+,,$310 pw,"4/13 Beverin Street,",SEBASTOPOL VIC 3356,2 Beds,1 Bath,1 Parking,,ballarat-vic,-37.5855786,143.8395484
+,,$520,"106/501-503 Plenty Road,",PRESTON VIC 3072,2 Beds,2 Baths,1 Parking,,ballarat-vic,-37.75,145.0167
+,,$380.00 per week,"7 Kelvin Avenue,",SEBASTOPOL VIC 3356,3 Beds,1 Bath,1 Parking,628m²,ballarat-vic,-37.6001826,143.837982
+,,$580,"15/163 Hubert Street,",EAST VICTORIA PARK WA 6101,2 Beds,1 Bath,1 Parking,,ballarat-vic,-31.9907764,115.9106969
+,,$550,"4 Henderson Drive,",TARNEIT VIC 3029,4 Beds,2 Baths,2 Parking,,ballarat-vic,-37.8433637,144.6426152
+,,"$580.00 per week $2,520.00 per month",".20 Kosa Avenue,",SUNSHINE WEST VIC 3020,3 Beds,2 Baths,2 Parking,,ballarat-vic,-37.7950931,144.7920516
+,,$450 per week,"52 Napier Street,",CRESWICK VIC 3363,3 Beds,1 Bath,1 Parking,,ballarat-vic,-37.4297689,143.8926735
+,,$450.00 per week,"6 Prophecy Road,",BONSHAW VIC 3352,4 Beds,2 Baths,2 Parking,,ballarat-vic,-37.8167,143.7667
+,,$400 weekly,"1015 Grevillea Rd,",WENDOUREE VIC 3355,3 Beds,1 Bath,3 Parking,,ballarat-vic,-37.5286032,143.8397475
+,,$500 p.w.,"1/1306 Mair Street,",LAKE WENDOUREE VIC 3350,2 Beds,1 Bath,1 Parking,,ballarat-vic,-37.5585552,143.8476147
+,,$520 p.w.,"40 Olympic Avenue,",MOUNT CLEAR VIC 3350,4 Beds,2 Baths,2 Parking,,ballarat-vic,-37.6095444,143.8699794
+,,$800 per week,"70 Cobram Drive,",EYNESBURY VIC 3338,5 Beds,3 Baths,2 Parking,,ballarat-vic,-37.7855923,144.5538346
+,,$350.00 per week,"113 Clyde Street,",BALLARAT CENTRAL VIC 3350,2 Beds,1 Bath,1 Parking,,ballarat-vic,-37.5292,143.8591
+,,$510.00 per week,"116 Ballarat Road,",HAMLYN HEIGHTS VIC 3215,3 Beds,1 Bath,1 Parking,,ballarat-vic,-38.1305194,144.3422884
+,,$465 per week,"1/381 Middleborough Road,",BOX HILL VIC 3128,2 Beds,1 Bath,− Parking,,ballarat-vic,-37.8199145,145.1382926
+,,$360 weekly,"4/1120 Geelong Road,",MOUNT CLEAR VIC 3350,3 Beds,2 Baths,2 Parking,,ballarat-vic,-37.6026609,143.8686287
+,,$460,"1610/6 Leicester Street,",CARLTON VIC 3053,1 Bed,1 Bath,− Parking,,ballarat-vic,-37.802198,144.9607524
+,,$430.00 per week,"404D Drummond Street North,",BALLARAT CENTRAL VIC 3350,3 Beds,1 Bath,2 Parking,,ballarat-vic,-37.5573618,143.8480854
+,,$430 pw,"6 Buniya Street,",BONSHAW VIC 3352,3 Beds,2 Baths,2 Parking,,ballarat-vic,-37.601334,143.8168445
+,,$480 p.w.,"12 Maloney Street,",LUCAS VIC 3350,4 Beds,2 Baths,2 Parking,,ballarat-vic,-37.5486689,143.7635681
+,,"$1,075 weekly","42 Fairview Rd,",MOUNT WAVERLEY VIC 3149,5 Beds,2 Baths,2 Parking,,ballarat-vic,-37.8667417,145.1164592
+,,$580pw /$2520pcm,"20 Bent Street,",BUNDOORA VIC 3083,4 Beds,1 Bath,1 Parking,,ballarat-vic,-37.6979816,145.0597269
+,,$360 p.w.,"12 Newhaven Close,",MOUNT PLEASANT VIC 3350,3 Beds,1 Bath,1 Parking,,ballarat-vic,-37.5806987,143.8531492
+,,$420 weekly,"358 Dean-Newlyn Rd,",DEAN VIC 3363,4 Beds,2 Baths,2 Parking,,ballarat-vic,-37.4554588,143.9872232
+,,$450.00 per week,"7 Sprinter Way,",WINTER VALLEY VIC 3358,4 Beds,2 Baths,2 Parking,476m²,ballarat-vic,-37.5728953,143.7891992
+,,$975 per week,"506/1 Dank Street West,",PORT MELBOURNE VIC 3207,3 Beds,1 Bath,2 Parking,,ballarat-vic,-37.8329,144.922
+,,$650 weekly,"79 Ardmillan Rd,",MOONEE PONDS VIC 3039,3 Beds,1 Bath,2 Parking,,ballarat-vic,-37.7629189,144.9092671
+,,Under Application - Deposit Taken,"1302/557 Little Lonsdale St,",MELBOURNE VIC 3000,1 Bed,1 Bath,− Parking,,ballarat-vic,-37.8109981,144.9628452
+,,$290.00 Per Week,"4/7-9 Ningana Street,",ALFREDTON VIC 3350,1 Bed,1 Bath,1 Parking,,ballarat-vic,-37.5292,143.8591
+,,$390 weekly,"15 Jordy Pl,",BROWN HILL VIC 3350,3 Beds,1 Bath,1 Parking,,ballarat-vic,-37.5539957,143.8916382
+,,Under Application,"133 Nelson Rd,",BOX HILL NORTH VIC 3129,3 Beds,1 Bath,2 Parking,,ballarat-vic,-37.8125881,145.1202218
+,,$420 weekly,"708 Doveton St N,",SOLDIERS HILL VIC 3350,3 Beds,1 Bath,1 Parking,,ballarat-vic,-37.5551087,143.855996
+,,$650 PW,"11 Bangalay Place,",POINT COOK VIC 3030,4 Beds,2 Baths,2 Parking,572m²,ballarat-vic,-37.9030495,144.747281
+,,$550.00,"26 Mellish Street,",LUCAS VIC 3350,4 Beds,2 Baths,2 Parking,,ballarat-vic,-37.5435604,143.782547
+,,$530 per week,"701/6 Leicester Street,",CARLTON VIC 3053,2 Beds,1 Bath,− Parking,,ballarat-vic,-37.802198,144.9607524
+,,$360.00,"7 Linton Court,",ALFREDTON VIC 3350,3 Beds,1 Bath,1 Parking,,ballarat-vic,-37.5505476,143.8004197
+,,$280.00,"Room 6/9 Nyora Grove,",MOUNT HELEN VIC 3350,1 Bed,1 Bath,− Parking,,ballarat-vic,-37.5292,143.8591
+,,$330.00,"4/118 Grant Street,",SEBASTOPOL VIC 3356,2 Beds,1 Bath,1 Parking,,ballarat-vic,-37.5986925,143.8315667
+,,$500,"9 Kerala Street,",ROCKBANK VIC 3335,4 Beds,2 Baths,1 Parking,,ballarat-vic,-37.7427695,144.6662207
+,,$480 per week,"817 18-28 Albert Street,",FOOTSCRAY VIC 3011,2 Beds,1 Bath,1 Parking,,ballarat-vic,-37.7995,144.8963
+,,"$3,500 per week","28 Janelle Way,",OCEAN GROVE VIC 3226,3 Beds,2 Baths,4 Parking,600m²,ballarat-vic,-38.2485008,144.5553815
+,,$510,"46 Bluebottle Parade,",ROCKBANK VIC 3335,4 Beds,2 Baths,2 Parking,,ballarat-vic,-37.7444148,144.6467109
+,,$335 per week,"235/386 Burwood Highway,",BURWOOD VIC 3125,1 Bed,1 Bath,− Parking,,ballarat-vic,-37.8498,145.119
+,,$320 p.w.,"1/8 Aquila Court,",BALLARAT NORTH VIC 3350,1 Bed,1 Bath,1 Parking,,ballarat-vic,-37.5439491,143.8700279
+,,$450 weekly,"53 Beartooth Dr,",WINTER VALLEY VIC 3358,4 Beds,2 Baths,2 Parking,,ballarat-vic,-37.5881163,143.7962219
+,,$450.00,"25 Aspen Street,",WINTER VALLEY VIC 3358,4 Beds,2 Baths,2 Parking,,ballarat-vic,-37.5865051,143.7956084
+,,$450 pw,"9 Bowerbird Grange,",WINTER VALLEY VIC 3358,4 Beds,2 Baths,2 Parking,312m²,ballarat-vic,-37.5759195,143.7833508
+,,$570 per week,"2508/31 A'Beckett St,",MELBOURNE VIC 3000,1 Bed,1 Bath,1 Parking,,ballarat-vic,-37.814,144.9633
+,,$365 pw,"325 Lydiard Street North,",SOLDIERS HILL VIC 3350,3 Beds,1 Bath,− Parking,,ballarat-vic,-37.5554475,143.8589853
+,,$450.00,"412 Sturt Street,",BALLARAT CENTRAL VIC 3350,3 Beds,2 Baths,1 Parking,,ballarat-vic,-37.5601637,143.8412359
+,,$450 pw,"53 Parkview Drive,",ALFREDTON VIC 3350,3 Beds,2 Baths,2 Parking,,ballarat-vic,-37.5507558,143.7871132
+,,$400 weekly,"61 Yarrowee St,",SEBASTOPOL VIC 3356,3 Beds,1 Bath,4 Parking,623m²,ballarat-vic,-37.59274,143.8429766
+,,$550,"15 Westbury Ave,",ROCKBANK VIC 3335,5 Beds,2 Baths,2 Parking,512m²,ballarat-vic,-37.7420647,144.6662495
+,,$380 weekly,"9 Lovenear Grove,",BALLARAT EAST VIC 3350,3 Beds,1 Bath,1 Parking,612m²,ballarat-vic,-37.5707471,143.8831189
+,,$430.00 per week,"2 Berrigan Drive,",BONSHAW VIC 3352,4 Beds,2 Baths,2 Parking,,ballarat-vic,-37.5966927,143.8231632
+,,$360.00 per week,"101 Beverin Street,",SEBASTOPOL VIC 3356,3 Beds,1 Bath,2 Parking,,ballarat-vic,-37.5855786,143.8395484
+,,$365.00 per week,"8 Malcolm Court,",BROWN HILL VIC 3350,2 Beds,1 Bath,1 Parking,,ballarat-vic,-37.556198,143.8967764
+,,$310 weekly,"3/12 Brophy Street,",BROWN HILL VIC 3350,2 Beds,1 Bath,1 Parking,,ballarat-vic,-37.5538725,143.8955132
+,,$430 p.w.,"27 Fraser Street,",MOUNT PLEASANT VIC 3350,4 Beds,2 Baths,2 Parking,,ballarat-vic,-37.5813297,143.8588241
+,,$470.00 per week,"123 Doodts Rd,",BALLARAT NORTH VIC 3350,4 Beds,2 Baths,4 Parking,,ballarat-vic,-37.5385041,143.8803845
+,,$460 per week,"14/24 Rooney Street,",MAIDSTONE VIC 3012,2 Beds,1 Bath,1 Parking,,ballarat-vic,-37.7846126,144.8714594
+,,$465 weekly,"1/34 Learmonth St,",ALFREDTON VIC 3350,2 Beds,1 Bath,1 Parking,,ballarat-vic,-37.5568868,143.8128661
+,,$440.00 per week,"2 Dianne Court,",CANADIAN VIC 3350,4 Beds,2 Baths,1 Parking,,ballarat-vic,-37.5906435,143.8648513
+,,$540.00 per week,"4 Kinnane Court,",BALLARAT NORTH VIC 3350,5 Beds,2 Baths,2 Parking,796m²,ballarat-vic,-37.5389549,143.8633019
+,,$430.00,"11 Goldsborough Street,",BONSHAW VIC 3352,4 Beds,2 Baths,2 Parking,,ballarat-vic,-37.8167,143.7667
+,,$350.00 per week,"18 Crompton Street,",SOLDIERS HILL VIC 3350,2 Beds,1 Bath,2 Parking,,ballarat-vic,-37.5432189,143.8552279
+,,$410.00,"2/11 Walton Street,",WENDOUREE VIC 3355,2 Beds,1 Bath,− Parking,,ballarat-vic,-37.5295627,143.8413349
+,,Under Application - Deposit Taken,"702/845-851 Whitehorse Rd,",BOX HILL VIC 3128,3 Beds,2 Baths,1 Parking,,ballarat-vic,-37.8256,145.1232
+,,$750 - Large Warehouse-Style Apartment!,"35/1 Flagstaff Lane,",WEST MELBOURNE VIC 3003,2 Beds,2 Baths,1 Parking,,ballarat-vic,-37.8095186,144.9519321
+,,$450 pw,"10 Windermere Street,",BALLARAT CENTRAL VIC 3350,3 Beds,1 Bath,1 Parking,,ballarat-vic,-37.5674626,143.8447312
+,,$560 weekly,"1006/545 Station St,",BOX HILL VIC 3128,1 Bed,1 Bath,1 Parking,,ballarat-vic,-37.8256,145.1232
+,,$480,"16 Zoe Street,",ROCKBANK VIC 3335,3 Beds,2 Baths,2 Parking,,ballarat-vic,-37.7349313,144.6608428
+,,$400 pw,"203a MacArthur Street,",SOLDIERS HILL VIC 3350,3 Beds,1 Bath,1 Parking,,ballarat-vic,-37.5514432,143.8623622
+,,$280 weekly,"2/45 Otway Street South,",BALLARAT EAST VIC 3350,1 Bed,1 Bath,1 Parking,,ballarat-vic,-37.5646935,143.876099
+,,$475.00,"19 Dromana Street,",ALFREDTON VIC 3350,3 Beds,2 Baths,2 Parking,,ballarat-vic,-37.5604728,143.8098604
+,,$450.00 per week,"1795 Sturt Street,",ALFREDTON VIC 3350,3 Beds,2 Baths,2 Parking,,ballarat-vic,-37.5423979,143.7873866
+,,$590 per week,"409/2 Hallenstein Street,",FOOTSCRAY VIC 3011,2 Beds,2 Baths,1 Parking,,ballarat-vic,-37.7998253,144.9080515
+,,$510 per week,"1 Blande Court,",LARA VIC 3212,3 Beds,2 Baths,2 Parking,,ballarat-vic,-38.0266872,144.4149844
+,,Contact Agent,"44/145 Canterbury Road,",TOORAK VIC 3142,1 Bed,1 Bath,− Parking,,ballarat-vic,-37.8432666,145.0103739
+,,$450.00 per week,"5 Zeal Road,",WINTER VALLEY VIC 3358,4 Beds,2 Baths,2 Parking,,ballarat-vic,-37.5867539,143.8053209
+,,$460,"50 Steamboat Avenue,",WINTER VALLEY VIC 3358,4 Beds,2 Baths,2 Parking,,ballarat-vic,-37.5857203,143.796674
+,,$475 pw,"16 Verdale Drive,",ALFREDTON VIC 3350,4 Beds,2 Baths,2 Parking,,ballarat-vic,-37.56499,143.7872425
+,,$450.00,"19/906 Lydiard Street North,",BALLARAT CENTRAL VIC 3350,2 Beds,2 Baths,1 Parking,,ballarat-vic,-37.5292,143.8591
+,,$330.00,"38 Grammar Street,",WENDOUREE VIC 3355,2 Beds,1 Bath,1 Parking,,ballarat-vic,-37.5373616,143.8340454
+,,$360.00,"1/2 Vale Street,",ALFREDTON VIC 3350,2 Beds,1 Bath,1 Parking,,ballarat-vic,-37.5556947,143.8161711
+,,$315 p.w.,"10/114 Lydiard Street North,",BALLARAT CENTRAL VIC 3350,1 Bed,1 Bath,1 Parking,,ballarat-vic,-37.5582631,143.8584781
+,,$360 p.w.,"4/14-16 Morgan Street,",SEBASTOPOL VIC 3356,2 Beds,1 Bath,1 Parking,,ballarat-vic,-37.5853,143.8395
+,,$200.00 per week,"1/2793 Old Melbourne Road,",DUNNSTOWN VIC 3352,1 Bed,1 Bath,1 Parking,,ballarat-vic,-37.8167,143.7667
+,,$800.00,"1806/408 Spencer Street,",WEST MELBOURNE VIC 3003,2 Beds,2 Baths,1 Parking,,ballarat-vic,-37.8101,144.95
+,,$385.00 per week,"9/1010 Geelong Road,",CANADIAN VIC 3350,3 Beds,1 Bath,1 Parking,,ballarat-vic,-37.5292,143.8591
+,,$300 p.w.,"4/31 Beverin Street,",SEBASTOPOL VIC 3356,2 Beds,1 Bath,1 Parking,,ballarat-vic,-37.5855786,143.8395484
+,,$450.00 per week,"9 Kimball Street,",SMYTHES CREEK VIC 3351,4 Beds,2 Baths,2 Parking,,ballarat-vic,-37.5972884,143.8000918
+,,$350.00 per week,"3/30 Victoria Street,",SEBASTOPOL VIC 3356,2 Beds,1 Bath,2 Parking,,ballarat-vic,-37.5987121,143.84085
+,,$375.00 per week,"65 Hopetoun Street,",BALLARAT EAST VIC 3350,3 Beds,1 Bath,1 Parking,,ballarat-vic,-37.561337,143.8772604
+,,$450,"20 GRAPPENHALL AVENUE,",STRATHTULLOH VIC 3338,4 Beds,2 Baths,2 Parking,,ballarat-vic,-37.7296522,144.5947442
+,,$800.00 per week,"1420 Sturt Street,",LAKE WENDOUREE VIC 3350,4 Beds,2 Baths,4 Parking,,ballarat-vic,-37.558683,143.8341706
+,,$420.00 per week,"18 Eton Street,",WENDOUREE VIC 3355,3 Beds,1 Bath,3 Parking,,ballarat-vic,-37.5303065,143.83623
+,,$390.00,"122 Birdwood Avenue,",SEBASTOPOL VIC 3356,3 Beds,2 Baths,1 Parking,,ballarat-vic,-37.5976994,143.8316135
+,,$365.00,"38A Ebden Street,",BALLARAT EAST VIC 3350,3 Beds,1 Bath,1 Parking,,ballarat-vic,-37.55858,143.8661312
+,,$360.00,"28 Anderson West Street,",BALLARAT CENTRAL VIC 3350,2 Beds,1 Bath,− Parking,,ballarat-vic,-37.5674025,143.858758
+,,$530 pw,"12 Hunter Street,",LUCAS VIC 3350,4 Beds,2 Baths,2 Parking,,ballarat-vic,-37.5501778,143.7841726
+,,$450 p.w.,"23 Heathcote Drive,",LUCAS VIC 3350,4 Beds,2 Baths,2 Parking,,ballarat-vic,-37.5462547,143.7712673
+,,$420 weekly,"16 Ford St,",BALLARAT EAST VIC 3350,3 Beds,2 Baths,2 Parking,,ballarat-vic,-37.5647894,143.8756062
+,,$650 weekly,"606/12-14 Nelson Rd,",BOX HILL VIC 3128,2 Beds,2 Baths,1 Parking,,ballarat-vic,-37.8256,145.1232
+,,335 per week,"130/386 Burwood Highway,",BURWOOD VIC 3125,1 Bed,1 Bath,− Parking,,ballarat-vic,-37.8498,145.119
+,,$470.00 per week,"30 Innsbruck Road,",WINTER VALLEY VIC 3358,4 Beds,2 Baths,2 Parking,518m²,ballarat-vic,-37.5855435,143.7934809
+,,$370.00 per week,"22 Westcliffe Crescent,",SEBASTOPOL VIC 3356,3 Beds,1 Bath,1 Parking,193m²,ballarat-vic,-37.6087814,143.841266
+,,$430.00 per week,"113 Edwards Street,",SEBASTOPOL VIC 3356,4 Beds,2 Baths,2 Parking,,ballarat-vic,-37.6012439,143.835915
+,,$420.00 per week,"401 Drummond Street South,",BALLARAT CENTRAL VIC 3350,3 Beds,2 Baths,1 Parking,442m²,ballarat-vic,-37.5690455,143.8459382
+,,$780.00,"108 Muir Road,",MINERS REST VIC 3352,3 Beds,1 Bath,8 Parking,,ballarat-vic,-37.489023,143.8162574
+,,$430.00,"51 Cormorant Grange,",WINTER VALLEY VIC 3358,4 Beds,2 Baths,2 Parking,,ballarat-vic,-37.5786601,143.7843455
+,,$380.00,"2/826 Bond Street,",MOUNT PLEASANT VIC 3350,2 Beds,1 Bath,1 Parking,,ballarat-vic,-37.5743309,143.8548633
+,,$440.00 per week,"15 Beartooth Drive,",WINTER VALLEY VIC 3358,4 Beds,2 Baths,2 Parking,,ballarat-vic,-37.5881163,143.7962219
+,,$450 Per Week,"119 Ascot Gdns Drive,",BONSHAW VIC 3352,4 Beds,2 Baths,2 Parking,,ballarat-vic,-37.8167,143.7667
+,,$450.00 Per Week,"26 Lakeland Drive,",LUCAS VIC 3350,3 Beds,2 Baths,2 Parking,,ballarat-vic,-37.5494655,143.7644728
+,,$500 Per Week,"17 Lakeland Drive,",LUCAS VIC 3350,4 Beds,2 Baths,2 Parking,448m²,ballarat-vic,-37.5494655,143.7644728
+,,$595 per week,"32 Victoria,",PRESTON VIC 3072,2 Beds,1 Bath,2 Parking,165m²,ballarat-vic,-37.75,145.0167
+,,$440.00,"26 Aspen Street,",WINTER VALLEY VIC 3358,4 Beds,2 Baths,2 Parking,,ballarat-vic,-37.5865051,143.7956084
+,,$590.00,"3 Masada Boulevard,",WINTER VALLEY VIC 3358,3 Beds,1 Bath,4 Parking,,ballarat-vic,-37.5859814,143.786671
+,,$550 weekly,"1 Lexton Rd,",BOX HILL NORTH VIC 3129,3 Beds,1 Bath,2 Parking,,ballarat-vic,-37.8121569,145.1364385
+,,$400.00,"60 Marie Crescent,",WENDOUREE VIC 3355,3 Beds,1 Bath,2 Parking,,ballarat-vic,-37.5248431,143.8370472
+,,$380 pw,"14 Rorey Street,",DELACOMBE VIC 3356,3 Beds,1 Bath,2 Parking,,ballarat-vic,-37.5836544,143.8220361
+,,$395 per week,"85 Bailey Street,",CLUNES VIC 3370,3 Beds,1 Bath,− Parking,,ballarat-vic,-37.2960443,143.7899393
+,,$330.00,"3 Spencer Street,",SEBASTOPOL VIC 3356,2 Beds,1 Bath,1 Parking,,ballarat-vic,-37.5901653,143.8378249
+,,$490 p.w.,"20 Eleanor Drive,",LUCAS VIC 3350,4 Beds,2 Baths,2 Parking,,ballarat-vic,-37.5490147,143.7774703
+,,$320 p.w.,"2/403 Barkly Street,",BUNINYONG VIC 3357,2 Beds,1 Bath,1 Parking,,ballarat-vic,-37.6451478,143.8837067
+,,$560 weekly,"20 Lemon St,",ALFREDTON VIC 3350,4 Beds,2 Baths,2 Parking,421m²,ballarat-vic,-37.5666278,143.7851496
+,,$350.00 per week,"317/133 Droop Street,",FOOTSCRAY VIC 3011,1 Bed,1 Bath,− Parking,,ballarat-vic,-37.7995,144.8963
+,,$450 PW,"11 Prophecy Road,",BONSHAW VIC 3352,4 Beds,2 Baths,2 Parking,,ballarat-vic,-37.8167,143.7667
+,,$395 per week,"17/92 Grey St,",ST KILDA VIC 3182,− 0 Beds,1 Bath,− Parking,30m²,ballarat-vic,-37.864,144.9814916
+,,$460.00 per week,"96 Anglesea Street,",WINTER VALLEY VIC 3358,4 Beds,2 Baths,2 Parking,,ballarat-vic,-37.5737915,143.7901188
+,,$355.00 per week,"213/133 Droop Street,",FOOTSCRAY VIC 3011,1 Bed,1 Bath,− Parking,,ballarat-vic,-37.7947538,144.8955019
+,,$470.00 per week,"10 Jemacra Place,",MOUNT CLEAR VIC 3350,5 Beds,2 Baths,2 Parking,,ballarat-vic,-37.6053136,143.8723443
+,,$420 weekly,"14 Prince St,",CRESWICK VIC 3363,3 Beds,1 Bath,4 Parking,,ballarat-vic,-37.4123226,143.890769
+,,$395 p.w.,"235 Kline Street,",BALLARAT EAST VIC 3350,3 Beds,1 Bath,− Parking,,ballarat-vic,-37.5698808,143.8852124
+,,$460.00 Per Week,"123 Ascot Gardens Drive,",BONSHAW VIC 3352,4 Beds,2 Baths,2 Parking,448m²,ballarat-vic,-37.8167,143.7667
+,,$600 pw,"25 Callanish Street,",TRUGANINA VIC 3029,4 Beds,2 Baths,2 Parking,,ballarat-vic,-37.814374,144.7136435
+,,$495.00,"104 Finchs Road,",SMYTHES CREEK VIC 3351,3 Beds,1 Bath,2 Parking,,ballarat-vic,-37.5978413,143.7493888
+,,$470.00,"20 Aspen Street,",WINTER VALLEY VIC 3358,4 Beds,2 Baths,2 Parking,,ballarat-vic,-37.5865051,143.7956084
+,,$330.00 per week including utilities,"Room 1/9 Nyora Grove,",MOUNT HELEN VIC 3350,1 Bed,1 Bath,1 Parking,,ballarat-vic,-37.5292,143.8591
+,,$530 weekly,"8 Wattle St,",BOX HILL NORTH VIC 3129,3 Beds,1 Bath,2 Parking,,ballarat-vic,-37.8107889,145.119309
+,,$670 PER WEEK,"9 Ballarat Street,",LALOR VIC 3075,4 Beds,2 Baths,2 Parking,,ballarat-vic,-37.6624985,145.0221824
+,,"$1,950 per week","112 Harold St,",MIDDLE PARK VIC 3206,4 Beds,3 Baths,2 Parking,,ballarat-vic,-37.8517675,144.9582035
+,,$530 Per Week,"34 Lakeland Drive,",LUCAS VIC 3350,4 Beds,2 Baths,2 Parking,512m²,ballarat-vic,-37.5494655,143.7644728
+,,$438 pw,"26/26 Beverin Street,",SEBASTOPOL VIC 3356,1 Bed,1 Bath,− Parking,,ballarat-vic,-37.5855786,143.8395484
+,,"$1,150 weekly","280A Tucker Rd,",ORMOND VIC 3204,4 Beds,3 Baths,2 Parking,,ballarat-vic,-37.9066213,145.053271
+,,$525.00,"206 Gatehouse Place,",MARIBYRNONG VIC 3032,2 Beds,1 Bath,1 Parking,,ballarat-vic,-37.773624,144.8809804
+,,$500 Per Week,"20 McNamee Boulevard,",LUCAS VIC 3350,4 Beds,2 Baths,2 Parking,,ballarat-vic,-37.5458108,143.7735896
+,,$310.00,"1/1110 Howitt Street,",WENDOUREE VIC 3355,2 Beds,1 Bath,1 Parking,,ballarat-vic,-37.5389889,143.8223762
+,,$360.00 per week,"3 Kirk Street,",WENDOUREE VIC 3355,3 Beds,1 Bath,1 Parking,,ballarat-vic,-37.5348505,143.8334771
+,,$630 per week,"2712/500 Elizabeth Street,",MELBOURNE VIC 3000,2 Beds,1 Bath,− Parking,,ballarat-vic,-37.7998626,144.9573647
+,,$405 p.w.,"351 Vickers Street,",SEBASTOPOL VIC 3356,4 Beds,2 Baths,2 Parking,,ballarat-vic,-37.592841,143.8316264
+,,$620 pw,"15 Leeward Drive,",TARNEIT VIC 3029,4 Beds,2 Baths,2 Parking,,ballarat-vic,-37.8612781,144.6469924
+,,$330 p.w.,"10/45 Otway Street South,",BALLARAT EAST VIC 3350,2 Beds,1 Bath,1 Parking,,ballarat-vic,-37.5646935,143.876099
+,,$485 p.w.,"5 Edwards Street,",SEBASTOPOL VIC 3356,5 Beds,2 Baths,2 Parking,,ballarat-vic,-37.6056195,143.8352968
+,,$380 p.w.,"111 Campbells Crescent,",REDAN VIC 3350,3 Beds,1 Bath,2 Parking,,ballarat-vic,-37.578744,143.8447489
+,,$580 PER WEEK,"7 Lauradan Way,",WOLLERT VIC 3750,4 Beds,2 Baths,2 Parking,,ballarat-vic,-37.6023219,145.0074468
+,,$510 pw,"41 Holman Crescent,",BACCHUS MARSH VIC 3340,4 Beds,2 Baths,2 Parking,,ballarat-vic,-37.7199,144.3727
+,,$470.00,"3 Adrianus Street,",ALFREDTON VIC 3350,4 Beds,2 Baths,2 Parking,,ballarat-vic,-37.5642068,143.7855428
+,,$400.00,"21 Oberon Street,",ALFREDTON VIC 3350,3 Beds,2 Baths,2 Parking,,ballarat-vic,-37.5585223,143.7879964
+,,$500 p.w.,"16 Perendale Street,",ALFREDTON VIC 3350,4 Beds,2 Baths,2 Parking,,ballarat-vic,-37.5596976,143.8006105
+,,$460.00,"16 Pontiac Drive,",SMYTHES CREEK VIC 3351,4 Beds,2 Baths,2 Parking,,ballarat-vic,-37.5923535,143.7987452
+,,$430 p.w.,"5/20 Falcon Drive,",INVERMAY PARK VIC 3350,3 Beds,2 Baths,2 Parking,,ballarat-vic,-37.5276027,143.8650188
+,,$380.00,"21B Josephine Way,",SEBASTOPOL VIC 3356,3 Beds,2 Baths,1 Parking,,ballarat-vic,-37.5997493,143.8272979
+,,$460.00,"18 Brind Way,",LUCAS VIC 3350,4 Beds,2 Baths,2 Parking,,ballarat-vic,-37.5455481,143.7723117
+,,$250 per week including Bills,"1/30 Browns Parade,",WENDOUREE VIC 3355,1 Bed,1 Bath,− Parking,,ballarat-vic,-37.5393945,143.836645
+,,$430.00 per week,"16 Erskine Road,",WINTER VALLEY VIC 3358,3 Beds,2 Baths,2 Parking,,ballarat-vic,-37.5698038,143.7934265
+,,$525,"G11/110 Roberts Street,",WEST FOOTSCRAY VIC 3012,2 Beds,2 Baths,1 Parking,,ballarat-vic,-37.8302,144.8709
+,,$550 per week,"11 Carina Court,",POINT COOK VIC 3030,4 Beds,2 Baths,− Parking,,ballarat-vic,-37.8923118,144.7242842
+,,$390 p.w.,"520 Doveton Street North,",SOLDIERS HILL VIC 3350,3 Beds,1 Bath,2 Parking,,ballarat-vic,-37.5551087,143.855996
+,,$440.00 per week,"4 Woodcutters Way,",BONSHAW VIC 3352,4 Beds,2 Baths,2 Parking,,ballarat-vic,-37.6009589,143.8209168
+,,$370 Including Utilities,"107A Little Dodds Street,",GOLDEN POINT VIC 3350,1 Bed,1 Bath,− Parking,,ballarat-vic,-37.570855,143.8718472
+,,$370.00 per week,"3/17 Yarrowee Street,",SEBASTOPOL VIC 3356,3 Beds,1 Bath,1 Parking,246m²,ballarat-vic,-37.59274,143.8429766
+,,$460.00 per week,"39 Clovedale Avenue,",ALFREDTON VIC 3350,4 Beds,2 Baths,2 Parking,,ballarat-vic,-37.5568058,143.7854731
+,,$350.00 per week,"108 Latrobe Street,",REDAN VIC 3350,3 Beds,1 Bath,− Parking,,ballarat-vic,-37.5292,143.8591
+,,$390.00 per week,"4 Neill Street,",BEAUFORT VIC 3373,3 Beds,1 Bath,3 Parking,,ballarat-vic,-37.430011,143.3843706
+,,$570 pw,"17 Falkirk Road,",NERRINA VIC 3350,4 Beds,2 Baths,2 Parking,,ballarat-vic,-37.5421366,143.8859246
+,,$470 p.w.,"164 Majestic Way,",WINTER VALLEY VIC 3358,4 Beds,2 Baths,2 Parking,,ballarat-vic,-37.576832,143.7954541
+,,$210 weekly,"1/133 Raleigh Road,",MARIBYRNONG VIC 3032,1 Bed,1 Bath,− Parking,,ballarat-vic,-37.7690186,144.8863597
+,,$460 p.w.,"6 Imperial Way,",CANADIAN VIC 3350,3 Beds,2 Baths,2 Parking,,ballarat-vic,-37.5891572,143.8740339
+,,$440.00,"235 Ballarat-Carngham Road,",WINTER VALLEY VIC 3358,4 Beds,2 Baths,2 Parking,,ballarat-vic,-37.5672048,143.7865339
+,,$670.00 Per week - Including gardener & cleaner,"1/157 Wendouree Parade,",LAKE WENDOUREE VIC 3350,2 Beds,2 Baths,1 Parking,,ballarat-vic,-37.5466006,143.8444876
+,,$355.00,"1226 Grevillea Road,",WENDOUREE VIC 3355,3 Beds,1 Bath,− Parking,,ballarat-vic,-37.5261628,143.8212107
+,,$450.00,"10 Cassowary Way,",WINTER VALLEY VIC 3358,4 Beds,2 Baths,2 Parking,,ballarat-vic,-37.5711743,143.7989562
+,,$350.00 per week,"1/1 Maude Street,",WENDOUREE VIC 3355,2 Beds,1 Bath,− Parking,,ballarat-vic,-37.5308997,143.8273108
+,,$490 per week,"1 Curnow Street,",GOLDEN POINT VIC 3350,4 Beds,2 Baths,1 Parking,,ballarat-vic,-37.5750491,143.8613477
+,,$355.00 per week,"214/133 Droop Street,",FOOTSCRAY VIC 3011,1 Bed,1 Bath,− Parking,,ballarat-vic,-37.7995,144.8963
+,,$445 per week,"7/1 Fiona Court,",ST KILDA VIC 3182,1 Bed,1 Bath,1 Parking,,ballarat-vic,-37.8637194,144.9878945
+,,$800 per week,"1/5 Jaguar Dr,",CLAYTON VIC 3168,4 Beds,3 Baths,2 Parking,,ballarat-vic,-37.9266051,145.1318539
+,,$650 per week Unfurnished,"1 Tuckett Street,",ALPHINGTON VIC 3078,3 Beds,1 Bath,2 Parking,,ballarat-vic,-37.7810256,145.0229956
+,,$670 per week,"205/8 Sutherland Street,",MELBOURNE VIC 3000,2 Beds,2 Baths,− Parking,,ballarat-vic,-37.8110719,144.960791
+,,$500 per week,"134 Birdwood Avenue,",SEBASTOPOL VIC 3356,5 Beds,2 Baths,2 Parking,,ballarat-vic,-37.5976994,143.8316135
+,,$370 per week,"255 Albert Street,",SEBASTOPOL VIC 3356,3 Beds,1 Bath,1 Parking,,ballarat-vic,-37.6212995,143.8343249
+,,"$450.00 per Week $1,955.00","39 Shillings Road,",MAMBOURIN VIC 3024,3 Beds,2 Baths,2 Parking,,ballarat-vic,-37.8887919,144.6021464
+,,**** UNDER APPLICATION ****,"12 Hyacinth Grove,",WENDOUREE VIC 3355,3 Beds,1 Bath,1 Parking,,ballarat-vic,-37.5274593,143.8222854
+,,$500.00 Per Week,"971a Albany Highway,",EAST VICTORIA PARK WA 6101,1 Bed,1 Bath,2 Parking,,ballarat-vic,-31.9813744,115.9010123
+,,$465.00 per week,"83 Verdale Drive,",ALFREDTON VIC 3350,4 Beds,2 Baths,2 Parking,,ballarat-vic,-37.56499,143.7872425
+,,$350.00,"16 Malmesbury Street,",WENDOUREE VIC 3355,3 Beds,1 Bath,1 Parking,,ballarat-vic,-37.5256616,143.831953
+,,$600.00,"62 Magpie Street,",MOUNT PLEASANT VIC 3350,4 Beds,2 Baths,3 Parking,,ballarat-vic,-37.580942,143.860607
+,,$355.00 per week,"303/133 Droop Street,",FOOTSCRAY VIC 3011,1 Bed,1 Bath,− Parking,,ballarat-vic,-37.7995,144.8963
+,,$350 per week,"211/133 Droop Street,",FOOTSCRAY VIC 3011,1 Bed,1 Bath,− Parking,,ballarat-vic,-37.7995,144.8963
+,,"$1,395 per week","21A Peel St,",KEW VIC 3101,4 Beds,3 Baths,2 Parking,380m²,ballarat-vic,-37.8057382,145.0328061
+,,$650.00,"505 Cornish Street,",BUNINYONG VIC 3357,4 Beds,2 Baths,2 Parking,,ballarat-vic,-37.6548912,143.8878163
+,,"$420 per week $1,825.00","24 Hensbergh Place,",SUNSHINE WEST VIC 3020,1 Bed,1 Bath,1 Parking,,ballarat-vic,-37.7953315,144.8005162
+,,$350.00,"107 Callow Street,",BALLARAT EAST VIC 3350,3 Beds,1 Bath,1 Parking,,ballarat-vic,-37.5677537,143.8736566
+,,$450.00 per week,"20 Rivulet Road,",BONSHAW VIC 3352,4 Beds,2 Baths,2 Parking,,ballarat-vic,-37.59836,143.8219085
+,,$450.00 per week,"4 Goldsborough Street,",BONSHAW VIC 3352,4 Beds,2 Baths,2 Parking,,ballarat-vic,-37.8167,143.7667
+,,$360 p.w.,"59 Gillies Street South,",ALFREDTON VIC 3350,4 Beds,1 Bath,1 Parking,,ballarat-vic,-37.5684981,143.8163752
+,,$460,"8 Perth Avenue,",ALBION VIC 3020,3 Beds,1 Bath,− Parking,,ballarat-vic,-37.7799668,144.814721
+,,$390.00 per week,"222 Victoria Street,",BALLARAT EAST VIC 3350,3 Beds,1 Bath,4 Parking,,ballarat-vic,-37.557985,143.8922346
+,,$355.00 per week,"103/133 Droop Street,",FOOTSCRAY VIC 3011,1 Bed,1 Bath,− Parking,,ballarat-vic,-37.7947538,144.8955019
+,,$355.00 per week,"309/133 Droop Street,",FOOTSCRAY VIC 3011,1 Bed,1 Bath,− Parking,,ballarat-vic,-37.7947538,144.8955019
+,,$355.00 per week,"320/133 Droop Street,",FOOTSCRAY VIC 3011,1 Bed,1 Bath,− Parking,,ballarat-vic,-37.7947538,144.8955019
+,,$350 per week,"304/133 Droop Street,",FOOTSCRAY VIC 3011,1 Bed,1 Bath,− Parking,,ballarat-vic,-37.7995,144.8963
+,,$360 per week,"19/117-119 Ballarat Road,",FOOTSCRAY VIC 3011,1 Bed,1 Bath,− Parking,,ballarat-vic,-37.7995,144.8963
+,,$620 PER WEEK,"11 Blunsdon Road,",WOLLERT VIC 3750,4 Beds,2 Baths,2 Parking,,ballarat-vic,-37.5960673,144.9926776
+,,$450.00 per week,"32 Marxsen Parade,",LUCAS VIC 3350,4 Beds,2 Baths,2 Parking,,ballarat-vic,-37.5433964,143.7727183
+,,$400.00 per week,"64 Vale Street,",SEBASTOPOL VIC 3356,3 Beds,1 Bath,3 Parking,585m²,ballarat-vic,-37.6047158,143.8404367
+,,$460.00 Per Week,"21 Nivea Street,",MAMBOURIN VIC 3024,3 Beds,2 Baths,2 Parking,,ballarat-vic,-37.8895189,144.5990849
+,,$495.00,"49 Webster Street,",BALLARAT CENTRAL VIC 3350,2 Beds,1 Bath,1 Parking,,ballarat-vic,-37.5568865,143.851578
+,,$360pw,"11 Carpenter Street,",WENDOUREE VIC 3355,3 Beds,1 Bath,2 Parking,,ballarat-vic,-37.5231861,143.8334542
+,,$260.00,"2/6 Alfred Street,",SEBASTOPOL VIC 3356,2 Beds,1 Bath,1 Parking,,ballarat-vic,-37.5818672,143.8349475
+,,$360 p.w.,"806 Doveton Street North,",SOLDIERS HILL VIC 3350,3 Beds,1 Bath,1 Parking,,ballarat-vic,-37.5551087,143.855996
+,,$360 per week,"14/117-119 Ballarat Road,",FOOTSCRAY VIC 3011,1 Bed,1 Bath,− Parking,,ballarat-vic,-37.7995,144.8963
+,,$350 pw,"2 Verbenna Grove,",WENDOUREE VIC 3355,3 Beds,1 Bath,− Parking,,ballarat-vic,-37.5314,143.8286
+,,$405.00 per week,"1617 Sturt Street,",ALFREDTON VIC 3350,2 Beds,2 Baths,2 Parking,184m²,ballarat-vic,-37.5548284,143.8157401
+,,$360 per week,"38/117-119 Ballarat Road,",FOOTSCRAY VIC 3011,1 Bed,1 Bath,− Parking,,ballarat-vic,-37.7995,144.8963
+,,$360 per week,"36/117-119 Ballarat Road,",FOOTSCRAY VIC 3011,1 Bed,1 Bath,− Parking,,ballarat-vic,-37.7995,144.8963
+,,$380 p.w.,"160 Albert Street,",SEBASTOPOL VIC 3356,4 Beds,1 Bath,− Parking,,ballarat-vic,-37.584494,143.8407772
+,,$600,"2 Ranni Place,",BONNIE BROOK VIC 3335,4 Beds,2 Baths,3 Parking,428m²,ballarat-vic,46.4194,14.6936
+,,$360 per week,"18/117-119 Ballarat Road,",FOOTSCRAY VIC 3011,1 Bed,1 Bath,− Parking,,ballarat-vic,-37.7995,144.8963
+,,$700 weekly,"9 Glenview Rd,",DONCASTER EAST VIC 3109,3 Beds,2 Baths,2 Parking,,ballarat-vic,-37.7982746,145.1630683
+,,$530 per week,"54 SOLITUDE CRESCENT,",POINT COOK VIC 3030,4 Beds,2 Baths,2 Parking,,ballarat-vic,-37.9045877,144.7181412
+,,$450.00 per week,"3 Ireland Street,",SMYTHESDALE VIC 3351,3 Beds,1 Bath,2 Parking,,ballarat-vic,-37.6459029,143.6855367
+,,$310 Including Utilities,"107 Little Dodds Street,",GOLDEN POINT VIC 3350,1 Bed,1 Bath,− Parking,,ballarat-vic,-37.570855,143.8718472
+,,$400.00,"9 Mia Street,",ALFREDTON VIC 3350,3 Beds,2 Baths,1 Parking,,ballarat-vic,-37.5647485,143.7850529
+,,$740.00,"1307/408 Spencer Street,",WEST MELBOURNE VIC 3003,2 Beds,1 Bath,− Parking,,ballarat-vic,-37.8101,144.95
+,,$780 per week,"2011/371 Little Lonsdale Street,",MELBOURNE VIC 3000,2 Beds,2 Baths,− Parking,,ballarat-vic,-37.8138183,144.9531186
+,,$800.00,"902/408 Spencer Street,",WEST MELBOURNE VIC 3003,2 Beds,2 Baths,− Parking,,ballarat-vic,-37.8101,144.95
+,,$650 per week,"1102/555 Swanston Street,",CARLTON VIC 3053,2 Beds,2 Baths,− Parking,,ballarat-vic,-37.8004,144.9684
+,,$470.00 per week,"15 Dante Crescent,",BONSHAW VIC 3352,4 Beds,2 Baths,2 Parking,,ballarat-vic,-37.5949947,143.8166595
+,,$450.00,"101 Berrigan Drive,",BONSHAW VIC 3352,4 Beds,2 Baths,2 Parking,,ballarat-vic,-37.5966927,143.8231632
+,,$360.00,"3/9 Foster Street,",REDAN VIC 3350,2 Beds,1 Bath,1 Parking,,ballarat-vic,-37.5731279,143.8325306
+,,$750.00,"309/408 Spencer Street,",WEST MELBOURNE VIC 3003,2 Beds,2 Baths,1 Parking,,ballarat-vic,-37.8101,144.95
+,,$455 p.w.,"173 Majestic Way,",WINTER VALLEY VIC 3358,3 Beds,2 Baths,2 Parking,,ballarat-vic,-37.576832,143.7954541
+,,$310.00 per week,"2/14 Aquila Court,",BALLARAT NORTH VIC 3350,2 Beds,1 Bath,1 Parking,,ballarat-vic,-37.5439491,143.8700279
+,,$438 pw,"21/26 Beverin Street,",SEBASTOPOL VIC 3356,1 Bed,1 Bath,− Parking,,ballarat-vic,-37.5855786,143.8395484
+,,$600,"14B Kinlock Avenue,",FERNDALE WA 6148,3 Beds,1 Bath,3 Parking,,ballarat-vic,-32.0314973,115.9311438
+,,$410 weekly,"1/912 Geelong Rd,",CANADIAN VIC 3350,3 Beds,2 Baths,1 Parking,,ballarat-vic,-37.5850948,143.8675749
+,,$440.00 per week,"7 Aspen Street,",WINTER VALLEY VIC 3358,4 Beds,2 Baths,2 Parking,,ballarat-vic,-37.5865051,143.7956084
+,,$350.00 per week,"56 Maple Avenue,",WENDOUREE VIC 3355,3 Beds,1 Bath,3 Parking,,ballarat-vic,-37.5284731,143.8223494
+,,$410 p.w.,"62 Giot Drive,",WENDOUREE VIC 3355,3 Beds,2 Baths,1 Parking,,ballarat-vic,-37.5194434,143.8263219
+,,$440.00 per week,"62 Alfredton Drive,",ALFREDTON VIC 3350,3 Beds,2 Baths,2 Parking,,ballarat-vic,-37.5564168,143.7956555
+,,$520,"22 Driftwood Street,",AINTREE VIC 3336,4 Beds,2 Baths,2 Parking,,ballarat-vic,-37.7152381,144.670721
+,,"$1,550 per week","201/1 Wallace Avenue,",TOORAK VIC 3142,2 Beds,2 Baths,2 Parking,,ballarat-vic,-37.8407409,145.0072068
+,,$400 pw,"127 Walker Street,",BLACK HILL VIC 3350,3 Beds,1 Bath,4 Parking,,ballarat-vic,-37.5292,143.8591
+,,$550,"G11/110 Roberts Street,",WEST FOOTSCRAY VIC 3012,2 Beds,2 Baths,1 Parking,,ballarat-vic,-37.8302,144.8709
+,,$500 Per Week,"79 Dorset Drive,",ALFREDTON VIC 3350,4 Beds,2 Baths,2 Parking,,ballarat-vic,-37.5603899,143.7974883
+,,$430.00,"5 Pelican Drive,",WINTER VALLEY VIC 3358,4 Beds,2 Baths,2 Parking,,ballarat-vic,-37.5730147,143.7829296
+,,$350 weekly,"5/91 Grant St,",SEBASTOPOL VIC 3356,2 Beds,1 Bath,1 Parking,,ballarat-vic,-37.6025704,143.8314026
+,,$400 Per Week,"317 Armstrong Street North,",SOLDIERS HILL VIC 3350,3 Beds,1 Bath,1 Parking,,ballarat-vic,-37.556949,143.8571868
+,,$550 per week,"10/949 Albany Highway,",EAST VICTORIA PARK WA 6101,2 Beds,1 Bath,1 Parking,,ballarat-vic,1.5,109.25
+,,$585 per week,"10/135 Fitzroy Street,",ST KILDA VIC 3182,2 Beds,1 Bath,1 Parking,,ballarat-vic,-37.8613356,144.974858
+,,$500.00,"14 Landale Avenue,",MOUNT CLEAR VIC 3350,4 Beds,2 Baths,2 Parking,,ballarat-vic,-37.6080295,143.8634233
