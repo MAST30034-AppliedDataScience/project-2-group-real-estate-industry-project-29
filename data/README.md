@@ -1,9 +1,7 @@
 # Real Estate Consulting(Victoria Rental Property Analysis)
 
 ## Group Introduction(Group 29):
-Yuzheng Mu
-Tianlu Du
-Weicheng Guo
+Yuzheng Mu; Tianlu Du; Weicheng Guo
 
 ## Project Overview
 
